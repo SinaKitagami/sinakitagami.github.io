@@ -1,2 +1,8 @@
-# Welcome to SinaWebsite!
-SinaKitagami is cool discord bot.
+---
+layout: default
+title: "Happy Jekylling!"
+---
+
+## You're ready to go!
+
+Start developing your Jekyll website.
