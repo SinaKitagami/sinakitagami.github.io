@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,japanese,latin-ext,vietnamese');\nbody{\n    margin:0; padding:0;\n    color: black;\n    background-color: #fff;\n  }\n\nul {\n\tlist-style-type: none;\n\tmargin: 0;\n\tpadding: 0;\n\toverflow: hidden;\n    background-color: #1f98c8;\n}\nli {\n\tfloat: left;\n\tborder-right: 1px solid #bbbbbb;\n}\nli a {\n\tdisplay: block;\n\tcolor: white;\n\ttext-align: center;\n\tpadding: 14px 16px;\n    text-decoration: none;\n}\n\nfooter{\n    width: 100%;\n    height: 100px;\n    background-color: #757575;\n    color: white;\n    text-align: center;\n}\nul.footer-menu li {\n    display: inline;\n}",
+		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n"
+	],
+	"names": [],
+	"mappings": "AACA,OAAO,CAAC,mKAAI;ACGZ,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,aAAa,EAAC,kBAAkB,EAAC,UAAU,EAAC,SAAS,EAAC,KAAK,EAAC,UAAU,EAAC,mBAAmB,EAAC,gBAAgB,EAAC,iBAAiB,GAMvI;;ADND,AAAA,IAAI,CAAA,EACA,MAAM,EAAC,CAAC,EAAE,OAAO,EAAC,CAAC,EACnB,KAAK,EAAE,KAAK,EACZ,gBAAgB,EAAE,IAAI,GACvB;;AAEH,AAAA,EAAE,CAAC,EACF,eAAe,EAAE,IAAI,EACrB,MAAM,EAAE,CAAC,EACT,OAAO,EAAE,CAAC,EACV,QAAQ,EAAE,MAAM,EACb,gBAAgB,EAAE,OAAO,GAC5B;;AACD,AAAA,EAAE,CAAC,EACF,KAAK,EAAE,IAAI,EACX,YAAY,EAAE,iBAAiB,GAC/B;;AACD,AAAA,EAAE,CAAC,CAAC,CAAC,EACJ,OAAO,EAAE,KAAK,EACd,KAAK,EAAE,KAAK,EACZ,UAAU,EAAE,MAAM,EAClB,OAAO,EAAE,SAAS,EACf,eAAe,EAAE,IAAI,GACxB;;AAED,AAAA,MAAM,CAAA,EACF,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,KAAK,EACb,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,KAAK,EACZ,UAAU,EAAE,MAAM,GACrB;;AACD,AAAA,EAAE,AAAA,YAAY,CAAC,EAAE,CAAC,EACd,OAAO,EAAE,MAAM,GAClB"
+}
