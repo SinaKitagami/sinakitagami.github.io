@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "整備中だよ!!"
 ---
 
-## いぇーい!
-搭載成功したよ
+## 整備中
+整備中ですお待ち下さい。
 
-CSSがんばってねー
-
-ぼくくんより。
+Hello!
+We are sorry.
+Site is under maintenance.
