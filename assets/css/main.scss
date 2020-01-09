@@ -1,5 +1,10 @@
 ---
 ---
+/*共通部分*/
+    * {
+        margin: 0;
+        padding: 0;
+    }
 /*フォント部分*/
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,japanese,latin-ext,vietnamese');
 /*config*/
@@ -8,3 +13,69 @@ body{
     color: black;
     background-color: #fff;
   }
+
+/*ヘッダー部分*/
+
+
+    .container {
+        max-width: 980px;
+        padding: 0 30px;
+    }
+
+    .header {
+        margin-left: 0;
+        height: 62px;
+        width: 100%;
+        box-shadow: 0 0 10px;
+        background-color: #004752;
+        position: fixed;
+        top: 0;
+        z-index: 9999;
+    }
+
+    .header-left {
+        height: 56px;
+        margin-top: 20px;
+        margin-left: 30px;
+
+        margin-right: 3px;
+        float: left;
+    }
+
+    .header-right {
+        float: right;
+    }
+
+    .header-logo {
+        color: white;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+    .header-right a {
+        line-height: 62px;
+        color: snow;
+        margin-left: 7px;
+        font-size: 16px;
+        padding: 16px 5px;
+    }
+
+    .header-right a:hover {
+        background-color: #006c7d;
+        transition: background-color 0.5s;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        min-height: 100%;
+        height: 100%;
+
+    }
