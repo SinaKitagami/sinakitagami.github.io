@@ -9,3 +9,4 @@ title: "整備中だよ!!"
 Hello!
 We are sorry.
 Site is under maintenance.
+coming soon.
