@@ -7,8 +7,7 @@
     }
 /*フォント部分*/
 
-font-family: 'PT Sans', sans-serif;
-font-family: 'M PLUS 1p', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,japanese,latin-ext,vietnamese');
 
 /*config*/
 body{
