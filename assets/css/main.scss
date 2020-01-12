@@ -4,10 +4,10 @@
     * {
         margin: 0;
         padding: 0;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
     }
-/*フォント部分*/
-
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,japanese,latin-ext,vietnamese');
 
 /*config*/
 body{
@@ -81,3 +81,28 @@ body{
         height: 100%;
 
     }
+    .btn-blue {
+        display: inline-block;
+        padding: 0.3em 1em;
+        text-decoration: none;
+        color: #67c5ff;
+        border: solid 2px #67c5ff;
+        border-radius: 3px;
+        transition: .4s;
+      }
+      
+      .btn-blue:hover {
+        background: #67c5ff;
+        color: white;
+      }
+.notice{
+    background-color: #ff6767;
+    color:#fff;
+    text-align: center;
+}
+
+.top-img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+  }
