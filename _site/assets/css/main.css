@@ -1,16 +1,37 @@
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,japanese,latin-ext,vietnamese");
-body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+@charset "UTF-8";
+/*共通部分*/
+* { margin: 0; padding: 0; font-family: 'Noto Sans JP', sans-serif; font-family: 'Open Sans', sans-serif; text-align: center; }
 
+/*config*/
 body { margin: 0; padding: 0; color: black; background-color: #fff; }
 
-ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #1f98c8; }
+/*ヘッダー部分*/
+.container { max-width: 980px; padding: 0 30px; }
 
-li { float: left; border-right: 1px solid #bbbbbb; }
+.header { margin-left: 0; height: 62px; width: 100%; box-shadow: 0 0 10px; background-color: #004752; position: fixed; top: 0; z-index: 9999; }
 
-li a { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; }
+.header-left { height: 56px; margin-top: 20px; margin-left: 30px; margin-right: 3px; float: left; }
 
-footer { width: 100%; height: 100px; background-color: #757575; color: white; text-align: center; }
+.header-right { float: right; }
 
-ul.footer-menu li { display: inline; }
+.header-logo { color: white; }
+
+.clear { clear: both; }
+
+.header-right a { line-height: 62px; color: snow; margin-left: 7px; font-size: 16px; padding: 16px 5px; }
+
+.header-right a:hover { background-color: #006c7d; transition: background-color 0.5s; }
+
+a { text-decoration: none; }
+
+.container { margin-left: auto; margin-right: auto; position: relative; min-height: 100%; height: 100%; }
+
+.btn-blue { display: inline-block; padding: 0.3em 1em; text-decoration: none; color: #67c5ff; border: solid 2px #67c5ff; border-radius: 3px; transition: .4s; }
+
+.btn-blue:hover { background: #67c5ff; color: white; }
+
+.notice { background-color: #ff6767; color: #fff; text-align: center; }
+
+.top-img { border-radius: 50%; width: 250px; height: 250px; }
 
 /*# sourceMappingURL=main.css.map */

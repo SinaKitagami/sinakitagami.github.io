@@ -1,11 +1,8 @@
 ---
 layout: default
-title: "整備中だよ!!"
+title: "Sina"
 ---
-# Comming soon...!
-## 整備中
-整備中ですお待ち下さい。
-
-Hello!
-We are sorry.
-Site is under maintenance.
+<img src="http://localhost:4000/img/sinaicon.jpg" alt="" class="top-img" />
+# 思惟奈ちゃん(Sina-chan)
+思惟奈ちゃんは、mii-10が保有するDiscordの総合ボットです。あなたも導入してみませんか?
+## できること:
