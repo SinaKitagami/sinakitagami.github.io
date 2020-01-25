@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*共通部分*/
-* { margin: 0; padding: 0; font-family: 'Noto Sans JP', sans-serif; font-family: 'Open Sans', sans-serif; text-align: center; }
+@import url("https://fonts.googleapis.com/css?family=Heebo:500|M+PLUS+Rounded+1c&display=swap&subset=japanese");
+* { margin: 0; padding: 0; text-align: center; }
 
 /*config*/
 body { margin: 0; padding: 0; color: black; background-color: #fff; }
@@ -33,5 +34,13 @@ a { text-decoration: none; }
 .notice { background-color: #ff6767; color: #fff; text-align: center; }
 
 .top-img { border-radius: 50%; width: 250px; height: 250px; }
+
+.main-header { border-bottom: solid 3px skyblue; position: relative; }
+
+.main-header:after { position: absolute; content: " "; display: block; border-bottom: solid 3px #77e469; bottom: -3px; width: 30%; }
+
+.topBn li { display: inline-block; margin: 5px 2px; }
+
+.topBn li img { border: solid 1px #ccc; }
 
 /*# sourceMappingURL=main.css.map */

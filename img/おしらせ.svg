@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="420" viewBox="0 0 600 420">
+  <defs>
+    <clipPath id="clip-Web_1280_1">
+      <rect width="600" height="420"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1280_1" data-name="Web 1280 – 1" clip-path="url(#clip-Web_1280_1)">
+    <text id="おしらせ" transform="translate(100 248)" fill="#fff" font-size="100" font-family="BIZ-UDGothic, BIZ UDGothic"><tspan x="0" y="0">おしらせ</tspan></text>
+  </g>
+</svg>
