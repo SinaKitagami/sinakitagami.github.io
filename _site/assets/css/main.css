@@ -35,9 +35,9 @@ a { text-decoration: none; }
 
 .top-img { border-radius: 50%; width: 250px; height: 250px; }
 
-.main-header { border-bottom: solid 3px skyblue; position: relative; }
+.main-title { border-bottom: solid 3px skyblue; position: relative; }
 
-.main-header:after { position: absolute; content: " "; display: block; border-bottom: solid 3px #77e469; bottom: -3px; width: 30%; }
+.main-title:after { position: absolute; content: " "; display: block; border-bottom: solid 3px #77e469; bottom: -3px; width: 50%; }
 
 .topBn li { display: inline-block; margin: 5px 2px; }
 
@@ -46,5 +46,19 @@ a { text-decoration: none; }
 .flex { display: flex; flex-wrap: wrap; }
 
 ul { list-style: none; padding-left: 0; }
+
+.top-image { background-image: url("https://cdn.discordapp.com/attachments/662989964111249408/671309866404675603/latest.png"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 60vh; }
+
+footer { background-color: #1f1f1f; padding: 4vw 12vw; text-align: center; color: #fff; }
+
+footer > a { color: #fff !important; }
+
+.top-black { position: relative; display: inline-block; padding: 0 55px; }
+
+.top-black:before, .top-black:after { content: ''; position: absolute; top: 50%; display: inline-block; width: 45px; height: 1px; background-color: black; }
+
+.top-black:before { left: 0; }
+
+.top-black:after { right: 0; }
 
 /*# sourceMappingURL=main.css.map */
