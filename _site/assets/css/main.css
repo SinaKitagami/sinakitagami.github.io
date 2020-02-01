@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*共通部分*/
-@import url("https://fonts.googleapis.com/css?family=Heebo:500|M+PLUS+Rounded+1c&display=swap&subset=japanese");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap&subset=japanese");
 * { margin: 0; padding: 0; text-align: center; }
 
 /*config*/
@@ -42,5 +42,9 @@ a { text-decoration: none; }
 .topBn li { display: inline-block; margin: 5px 2px; }
 
 .topBn li img { border: solid 1px #ccc; }
+
+.flex { display: flex; flex-wrap: wrap; }
+
+ul { list-style: none; padding-left: 0; }
 
 /*# sourceMappingURL=main.css.map */

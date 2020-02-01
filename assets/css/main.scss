@@ -7,7 +7,7 @@
         text-align: center;
     }
 
-@import url('https://fonts.googleapis.com/css?family=Heebo:500|M+PLUS+Rounded+1c&display=swap&subset=japanese');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap&subset=japanese');
 
 /*config*/
 body{
@@ -127,4 +127,14 @@ body{
 }
 .topBn li img {
     border:solid 1px #ccc;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
 }

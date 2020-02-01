@@ -1,23 +1,23 @@
 - name: レベル機能
   description: 話した分だけレベルを計測!
-  img: レベル.svg
+  img: level.png
 
 - name: 音楽機能
   description: YouTube/ニコニコ動画などから音楽を流せる!
-  img: Youtube.svg
+  img: Youtube.png
 
 - name: グローバルチャット機能
   description: 他のサーバーとおしゃべりできる!
-  img: グローバルチャット.svg
+  img: globalchat.png
 
 - name: 使いやすいUI
   description: 使いやすいUIで直感に操作できます。
-  img: コード.svg
+  img: code.png
 
 - name: 安心の24時間稼働
   description: 安心の24時間稼働!常に利用できます。
-  img: サーバー2.svg
+  img: server2.png
 
 - name: サーバー管理機能
   description: 思惟奈ちゃんを用いてサーバーを管理できます。
-  img: 角丸歯車.svg
+  img: setting.png
