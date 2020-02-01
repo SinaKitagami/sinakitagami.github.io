@@ -18,8 +18,8 @@ title: "思惟奈ちゃん(sina-chan)"
 <h2 class="top-black">おしらせ</h2>
 おしらせです。
 <br>
-{% for post in site.categories.news limit:5 %}
-{{ post.date }}<a href="{{ post.url }}">{{ post.title }}</a>
+{% for post in site.categories.NEWS %}
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 <br>
 
@@ -32,7 +32,7 @@ title: "思惟奈ちゃん(sina-chan)"
 
 ### 開発チームのつぶやき
 <br>
-{% for post in site.categories.team limit:5 %}
+{% for post in site.categories.team %}
 {{ post.date }}<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
