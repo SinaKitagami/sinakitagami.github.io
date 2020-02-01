@@ -1,16 +1,42 @@
 ---
 layout: default
-title: "Sina"
+title: "思惟奈ちゃん(sina-chan)"
 ---
-# 思惟奈ちゃん(Sina-chan)
-思惟奈ちゃんは、mii-10が保有するDiscordの総合ボットです。あなたも導入してみませんか?
-<h2 class="main-header">できること</h2>
-<ul>
-{% for f in site.data.functions %}
- <li>
-   <img src="./img/{{ f.img }}">
-   <h3>{{ f.name }}</h3>
-   <p>{{ f.description }}</p>
- </li>
+<section class="top-image"></section>
+<br>
+<h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
+思惟奈ちゃん(sina-chan)は、様々な機能を兼ね備えている、Discordbotです。
+現在、50サーバーを超えるサーバーで利用されています。あなたのサーバーにも追加してみませんか?
+
+<a class="btn-blue" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
+招待する(Discord)
+</a>
+
+### こんなことができます!
+いろいろー
+
+<h2 class="top-black">おしらせ</h2>
+おしらせです。
+<br>
+{% for post in site.categories.news limit:5 %}
+{{ post.date }}<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
-</ul>
+<br>
+
+
+<h2 class="main-title">開発チームについて</h2>
+開発チームについては以下をご覧ください。
+
+<a class="btn-blue" href="">開発チームについて</a>
+<br>
+
+### 開発チームのつぶやき
+<br>
+{% for post in site.categories.team limit:5 %}
+{{ post.date }}<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+
+<h2 class="top-black">お問い合わせ</h2>
+以下の手段よりご連絡ください。
+
+<a class="btn-blue" href="https://discord.gg/udA3qgZ">Discordから</a>
