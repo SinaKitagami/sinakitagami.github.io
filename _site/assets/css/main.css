@@ -61,4 +61,9 @@ footer > a { color: #fff !important; }
 
 .top-black:after { right: 0; }
 
+/*yuki384さんのサイトからインスパイアされました!*/
+.post-head { padding: 36px 11% 24px; background-color: #004752; color: #fff; text-align: center; }
+
+.post-head h2 { margin-top: 3em; }
+
 /*# sourceMappingURL=main.css.map */
