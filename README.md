@@ -1,6 +1,9 @@
 # sinakitagami.github.io
 Sinaのサイトです。
 ## 記事の作り方
+:pencil2:から編集できます。 
+また、新しい記事は、フォルダーへ移動し、Create new fileを押すと作れます。
+詳しくは、https://help.github.com/ja/github/managing-files-in-a-repository/editing-files-in-your-repository
 ### 新機能
 新機能の場合は、_posts/NEWSフォルダに「{日付}-newcommand-0{数字}.md」というファイルを作ってください。
 
