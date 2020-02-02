@@ -2,7 +2,6 @@
 <html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
@@ -20,7 +19,7 @@
     {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     {% if page.thumbnail %}
-    <meta property="og:image" content="{{site.url}}/img/news/{{page.image}}" />
+    <meta property="og:image" content="{{site.url}}/img/{{page.image}}" />
     {% else %}
     <meta property="og:image" content="{{site.url}}/img/topimage.png" />
 {% endif %}
