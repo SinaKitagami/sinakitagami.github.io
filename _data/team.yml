@@ -22,7 +22,7 @@
 - name: ショウマ
   skill: プログラミング(ruby＋Pythonがぷち得意)、ノベル執筆
   command: tenki
-  permission: グローバルモデレーター,ウェブ,プログラム
+  permission: グローバルモデレーター
   introduction: まったりと彷徨ったりする人物です。よく間違われやすいけどね(｜＜)ﾃﾍﾍﾟﾛ　ともかく宜しくお願いします！
   img: hyouga.png
 
