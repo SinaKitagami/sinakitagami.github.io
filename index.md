@@ -19,7 +19,7 @@ title: "思惟奈ちゃん(sina-chan)"
 おしらせです。
 <br>
 {% for post in site.categories.NEWS %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}">{{ post.title }}</a>
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>
 {% endfor %}
 <br>
 
