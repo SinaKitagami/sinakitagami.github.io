@@ -1,0 +1,41 @@
+#追加方法
+#nameには名前
+#skillには特技
+#commandには作ったコマンド
+#introductionには自己紹介
+#imgアイコンの名前
+
+- name: きゃらちゃん
+  skill: こう見えて音ゲー
+  command: なし
+  permission: グローバルモデレーター,サポート窓口
+  introduction: きゃらちゃんだぞ！！よろしくな！
+  img: group.png
+
+- name: T-taku
+  skill: Web,discord.py,Python,ドラム,ピアノ(少しだけ)
+  command: なし
+  permission: グローバルモデレーター,ウェブ,プログラム
+  introduction: T-takuです、主にこのサイトの更新とかデザインとかをやっています。(Icon created by T-taku.)
+  img: T-taku.png
+
+- name: ショウマ
+  skill: プログラミング(ruby＋Pythonがぷち得意)、ノベル執筆
+  command: tenki
+  permission: グローバルモデレーター,ウェブ,プログラム
+  introduction: まったりと彷徨ったりする人物です。よく間違われやすいけどね(｜＜)ﾃﾍﾍﾟﾛ　ともかく宜しくお願いします！
+  img: group.png
+
+- name: Poteto143
+  skill: Scratchでゲーム作り
+  command: jyanken
+  permission: グローバルモデレーター,ウェブ,プログラム
+  introduction: 自由気ままな学生プログラマーです。
+  img: potate.png
+
+- name: RoastBox(別名:ともさん)
+  skill: 壁紙やテクスチャの作成
+  command: なし
+  permission: グローバルモデレーター,イラスト
+  introduction: チーム思惟奈ちゃんに入っていますが、実は驚くほどプログラミングができません。できるのはFPSだけです、よろしくお願いします。
+  img: tomo.png
