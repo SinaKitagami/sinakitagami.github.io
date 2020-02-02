@@ -13,6 +13,8 @@ body{
     margin:0; padding:0;
     color: #2C2F33;
     background-color: rgba(255, 255, 255, 0.781);
+    position: relative;
+    min-height: 100vh;
   }
 
 /*ヘッダー部分*/
@@ -88,7 +90,7 @@ body{
         border-radius: 3px;
         transition: .4s;
       }
-      
+
       .btn-blue:hover {
         background: #67c5ff;
         color: white;
@@ -109,7 +111,7 @@ body{
     border-bottom: solid 3px skyblue;
     position: relative;
   }
-  
+
   .main-title:after {
     position: absolute;
     content: " ";
@@ -151,6 +153,10 @@ body{
     padding: 4vw 12vw;
     text-align: center;
     color:#fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    box-sizing: border-box;
   }
   footer>a{
     color: #fff !important;
@@ -161,7 +167,7 @@ body{
     display: inline-block;
     padding: 0 55px;
   }
-  
+
   .top-black:before, .top-black:after {
     content: '';
     position: absolute;
@@ -171,7 +177,7 @@ body{
     height: 1px;
     background-color: black;
   }
-  
+
   .top-black:before {
     left:0;
   }
@@ -195,7 +201,7 @@ body{
   .a-orange{
     color: #25c3d8
   }
-  
+
   .a-orange:hover{
     color : #ff7043;
   }
@@ -209,15 +215,15 @@ body{
     width: 100%;
     border-collapse: collapse;
   }
-  
+
   table tr{
     border-bottom: solid 2px white;
   }
-  
+
   table tr:last-child{
     border-bottom: none;
   }
-  
+
   table th{
     position: relative;
     text-align: left;
@@ -227,7 +233,7 @@ body{
     text-align: center;
     padding: 10px 0;
   }
-  
+
   table th:after{
     display: block;
     content: "";
@@ -240,7 +246,7 @@ body{
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
   }
-  
+
   table td{
     text-align: left;
     width: 70%;
