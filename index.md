@@ -42,7 +42,7 @@ title: "思惟奈ちゃん(sina-chan)"
 
 ### メンバー
 TeamSinaには、様々な特技を持つ人材がいます。ここに書いてあるのは、ほんの一部のメンバーです。
-<div class="seealso">
+<div class="member">
 {% for member in site.data.team %}
 <img src="{{ site.url }}/img/teammember/{{ member.img }}" title="{{ member.name }}" class="team-img">
 {% endfor %}
