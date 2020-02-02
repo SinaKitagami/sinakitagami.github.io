@@ -31,7 +31,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <a class="btn-blue" href="{{ site.url }}/aboutus"><i class="fas fa-angle-double-right"></i>開発チームについて</a>
 <br><br>
 
-<h2 class="top-black">開発チームのつぶやき
+<h2 class="top-black">開発チームのつぶやき</h2>
 <br>
 {% for post in site.categories.TEAM %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})
