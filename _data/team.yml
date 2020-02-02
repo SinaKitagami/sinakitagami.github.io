@@ -39,3 +39,17 @@
   permission: グローバルモデレーター,イラスト
   introduction: チーム思惟奈ちゃんに入っていますが、実は驚くほどプログラミングができません。できるのはFPSだけです、よろしくお願いします。
   img: tomo.png
+
+- name: parfait9(別名：あじのり)
+  skill: Python、イラストなど
+  command: なし
+  permission: グローバルモデレーター,ウェブ,プログラム,イラスト
+  introduction: プログラミングを勉強してる学生です。まだまだ初心者です。
+  img: parfait9.jpg
+
+- name: きゅー
+  skill: 英語、イラスト
+  command: なし
+  permission: グローバルモデレーター,翻訳
+  introduction: よくいる平凡な学生です。プログラミングはできません。よろしくね！
+  img: pqs.png
