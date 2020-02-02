@@ -6,10 +6,12 @@
         padding: 0;
     }
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap&subset=japanese');
+/*@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap&subset=japanese');*/
 
 /*config*/
 body{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin:0; padding:0;
     color: #2C2F33;
     background-color: rgba(255, 255, 255, 0.781);
