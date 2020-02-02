@@ -1,15 +1,15 @@
 @charset "UTF-8";
 /*共通部分*/
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap&subset=japanese");
-* { margin: 0; padding: 0; text-align: center; }
+* { margin: 0; padding: 0; }
 
 /*config*/
-body { margin: 0; padding: 0; color: black; background-color: #fff; }
+body { margin: 0; padding: 0; color: #2C2F33; background-color: rgba(255, 255, 255, 0.781); }
 
 /*ヘッダー部分*/
 .container { max-width: 980px; padding: 0 30px; }
 
-.header { margin-left: 0; height: 62px; width: 100%; box-shadow: 0 0 10px; background-color: #004752; position: fixed; top: 0; z-index: 9999; }
+.header { margin-left: 0; height: 62px; width: 100%; /*box-shadow: 0 0 10px;*/ background-color: #0290a3; position: fixed; top: 0; z-index: 9999; }
 
 .header-left { height: 56px; margin-top: 20px; margin-left: 30px; margin-right: 3px; float: left; }
 
@@ -47,7 +47,7 @@ a { text-decoration: none; }
 
 ul { list-style: none; padding-left: 0; }
 
-.top-image { background-image: url("https://cdn.discordapp.com/attachments/662989964111249408/671309866404675603/latest.png"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 60vh; }
+.top-image { background-image: url("https://cdn.discordapp.com/attachments/662989964111249408/671309866404675603/latest.png"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 60vh; margin-top: 62px; }
 
 footer { background-color: #1f1f1f; padding: 4vw 12vw; text-align: center; color: #fff; }
 
@@ -62,8 +62,14 @@ footer > a { color: #fff !important; }
 .top-black:after { right: 0; }
 
 /*yuki384さんのサイトからインスパイアされました!*/
-.post-head { padding: 36px 11% 24px; background-color: #004752; color: #fff; text-align: center; }
+.post-head { padding: 30px 11% 50px; background-color: #0290a3; color: #fff; text-align: center; }
 
-.post-head h2 { margin-top: 3em; }
+.post-head h2 { margin-top: 1em; }
+
+.post-content { padding: 30px 11% 50px; }
+
+.a-orange { color: #25c3d8; }
+
+.a-orange:hover { color: #ff7043; }
 
 /*# sourceMappingURL=main.css.map */

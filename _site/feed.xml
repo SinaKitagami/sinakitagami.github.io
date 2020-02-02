@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2020-02-02T01:56:36+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SinaKitagami</title><subtitle>北上思惟奈(Sina-Kitagami)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、50サーバー以上で使われています。あなたも使ってみませんか?</subtitle><entry><title type="html">サイトを作成しました!</title><link href="http://localhost:4000/news/created-sina-site" rel="alternate" type="text/html" title="サイトを作成しました!" /><published>2019-02-02T01:21:00+09:00</published><updated>2019-02-02T01:21:00+09:00</updated><id>http://localhost:4000/news/created-sina-site</id><content type="html" xml:base="http://localhost:4000/news/created-sina-site">&lt;h2 id=&quot;こんにちは&quot;&gt;こんにちは!&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2020-02-02T13:01:14+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SinaKitagami</title><subtitle>北上思惟奈(Sina-Kitagami)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、50サーバー以上で使われています。あなたも使ってみませんか?</subtitle><entry><title type="html">サイトを作成しました!</title><link href="http://localhost:4000/news/created-sina-site" rel="alternate" type="text/html" title="サイトを作成しました!" /><published>2020-02-02T01:21:00+09:00</published><updated>2020-02-02T01:21:00+09:00</updated><id>http://localhost:4000/news/created-sina-site</id><content type="html" xml:base="http://localhost:4000/news/created-sina-site">&lt;h2 id=&quot;こんにちは&quot;&gt;こんにちは!&lt;/h2&gt;
+
 &lt;p&gt;こんにちは、思惟奈ちゃんのサイトへようこそ!&lt;/p&gt;
 
 &lt;p&gt;このサイトでは、思惟奈ちゃんの更新情報や、ちょっとした開発チームのつぶやきとか(?)をお知らせするサイトです。&lt;/p&gt;
@@ -10,18 +11,21 @@
 &lt;p&gt;ちなみに今日は、サイト開発の経緯とかを書いときます。(初記事だしね!)&lt;/p&gt;
 
 &lt;h2 id=&quot;サイト開発の経緯&quot;&gt;サイト開発の経緯&lt;/h2&gt;
+
 &lt;p&gt;そもそも、思惟奈ちゃんのチームが作られたのは、2020年の1月くらい?でした。&lt;/p&gt;
 
-&lt;p&gt;経緯はいろいろありますが、なんかチーム開発をしたくなったんです。w&lt;/p&gt;
+&lt;p&gt;経緯はいろいろありますが、なんかチーム開発をしたくなったらしいんです。w&lt;/p&gt;
 
 &lt;p&gt;そこでサイトがないこともあり、ウェブ開発チームができました。&lt;/p&gt;
 &lt;h3 id=&quot;そもそもどうやって更新情報伝える&quot;&gt;そもそもどうやって更新情報伝える?&lt;/h3&gt;
+
 &lt;p&gt;そう、まずはこの問題にぶつかりました。&lt;/p&gt;
 
 &lt;p&gt;更新情報を伝えるサイトが伝えれなければ意味がありません。しかもサーバーを借りるわけにもいかないのでGithubPagesを使うことになりました。&lt;/p&gt;
 
 &lt;p&gt;調べていくとJekyllという物があるらしくとても面白そうだったので使ってみることにしました。&lt;/p&gt;
 &lt;h3 id=&quot;どんなデザインにする&quot;&gt;どんなデザインにする?&lt;/h3&gt;
+
 &lt;p&gt;どんなデザインにするかって結構大事だったりします。印象を決めますからね!&lt;/p&gt;
 
 &lt;p&gt;正直全然デザインがわきませんでした。&lt;/p&gt;
@@ -32,6 +36,7 @@
 
 &lt;p&gt;たぶんね!&lt;/p&gt;
 &lt;h2 id=&quot;これからこのサイトは&quot;&gt;これからこのサイトは?&lt;/h2&gt;
+
 &lt;p&gt;これからこのサイトは、更新情報等を書いていく予定です。&lt;/p&gt;
 
 &lt;p&gt;正直誰が更新するかわかりません!たまに遅れちゃうかもw&lt;/p&gt;
@@ -41,6 +46,7 @@
 &lt;a class=&quot;btn-blue&quot; href=&quot;https://discord.gg/yB9bMCd&quot;&gt;こちらから!(Discord)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;おわり&quot;&gt;おわり!&lt;/h2&gt;
+
 &lt;p&gt;この記事はここで終わりです!
 もうね深夜にね書いてるからね、きついし眠いの。
-とりあえず、読んでくださりありがとうございました!&lt;/p&gt;</content><author><name></name></author><category term="サイト" /><summary type="html">こんにちは! こんにちは、思惟奈ちゃんのサイトへようこそ!</summary></entry></feed>
+とりあえず、読んでくださりありがとうございました!&lt;/p&gt;</content><author><name>T-taku</name></author><category term="サイト" /><summary type="html">こんにちは!</summary></entry></feed>

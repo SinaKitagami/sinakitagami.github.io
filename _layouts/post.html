@@ -2,6 +2,7 @@
 <html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
@@ -24,9 +25,11 @@
 <div class="post-head">
     <h2>{{ page.categories }}</h2>
     <h1>{{ page.title }}</h1>
+    <h3>{{ page.date | date:"%Y/%-m/%d" }}</h3>
 </div>
-<p>{{ page.date | date:"%Y/%-m/%d" }}</p>
+<div class="post-content">
 {{ content }}
+</div>
 <br><br><br>
 {% include footer.html %}
 </body>
