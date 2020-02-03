@@ -7,6 +7,7 @@ author: 書いてる人(T-taku)
 ---
 
 --以下ツール(投稿時は消すこと)--
+
 リンク:<a href="リンク" class="a-orange">リンクの名前</a>
 
 ボタン:<a class="btn-blue" href="リンク">ボタンの名前</a>
