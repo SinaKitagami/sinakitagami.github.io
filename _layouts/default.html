@@ -19,13 +19,15 @@
     {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <meta property="og:image" content="{{site.url}}/img/topimage.png" />
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     {% include header.html %}
     <center>
     {{content}}
   </center>
-    <br><br><br>
     {% include footer.html %}
   </body>
 </html>
