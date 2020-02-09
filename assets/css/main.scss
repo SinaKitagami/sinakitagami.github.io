@@ -22,7 +22,60 @@ body{
 
 /*ヘッダー部分*/
 
-
+    .header-navbtn{
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 30;
+      width: 30px;
+      height: 30px;
+      background-image: url(../../img/menu.png);
+      background-size: 30px 30px;
+      margin:16px;
+    }
+    .header-navbtn:hover,.header-navbtn:active{
+      background-color: #00bcd4;
+    }
+    @media screen and (min-width:768px){
+      .header-navbtn{
+        display: none;
+      }
+      .header-right {
+        float: right;
+        display: block !important;
+      }
+      .header-right a {
+        display: inline;
+        line-height: 62px;
+        color: snow;
+        margin-left: 7px;
+        font-size: 16px;
+        padding: 16px 5px;
+      }
+    }
+      @media screen and (max-width:767px){
+        .header-right {
+          width: 220px;
+          margin-top:0;
+          padding: 0;
+          float: right;
+          display: none;
+          background-color: #00627a;
+        }
+        .header-right a {
+          width: 220px;
+          line-height: 62px;
+          color: snow;
+          margin-left: 7px;
+          padding: 10px 30px;
+        }
+      }
+    .header-right a:hover {
+        background-color: #006c7d;
+        transition: background-color 0.5s;
+      }
+    
     .container {
         max-width: 980px;
         padding: 0 30px;
@@ -48,7 +101,8 @@ body{
     }
 
     .header-right {
-        float: right;
+        //float: right;
+        display: none;
     }
 
     .header-logo {
@@ -59,13 +113,6 @@ body{
         clear: both;
     }
 
-    .header-right a {
-        line-height: 62px;
-        color: snow;
-        margin-left: 7px;
-        font-size: 16px;
-        padding: 16px 5px;
-    }
 
     .header-right a:hover {
         background-color: #006c7d;
