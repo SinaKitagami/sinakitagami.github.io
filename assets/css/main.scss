@@ -254,11 +254,16 @@ body{
     padding: 10px 0;
   }
 
-  div.member * {
+  div.yokonarabi * {
     display: inline-block;
 }
 
 /*404*/
 .not-found{
   padding-top:200px;
+}
+
+ul{
+  list-style: disc;
+  padding-left: 40px;
 }
