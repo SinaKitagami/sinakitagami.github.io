@@ -15,10 +15,10 @@ https://sinakitagami.github.io (以下当サイト)では、利用者の情報�
 
 また、Cookieは利用者自身がいつでもご自身の使用ブラウザより削除することができます。詳しくは、各ブラウザのヘルプページをご覧下さい。:<br>
 
- - Google Chrome:https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop
- - Firefox:https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox
- - Internet Explorer:https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies
- - Microsoft Edge: https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies
+ - Google Chrome:<a href="https://support.google.com/chrome/answer/95647" class="a-orange">https://support.google.com/chrome/answer/95647</a>
+ - Firefox:<a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox</a>
+ - Internet Explorer:<a href="https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies</a>
+ - Microsoft Edge:<a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies</a>
 
 ## Google Analyticsのについて
 当サイトでは、ホームページの利用状況を把握するためにGoogle Analyticsを利用しています。Google Analyticsから提供されるCookieを利用していますが、個人情報を特定する物ではありません。また、当サイトでは、Google Analyticsの責任を一切負わないものとします。
@@ -26,7 +26,7 @@ https://sinakitagami.github.io (以下当サイト)では、利用者の情報�
 詳しくは、Google社の公式サイトをご覧下さい:
 
  - Googleのサービスを使用するサイトやアプリから収集した情報のGoogleによる使用：
-  - https://www.google.com/intl/ja/policies/privacy/partners/
+  - <a href="https://www.google.com/intl/ja/policies/privacy/partners/" class="a-orange">https://www.google.com/intl/ja/policies/privacy/partners/</a>
 
 以上<br>
 
