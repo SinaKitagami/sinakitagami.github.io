@@ -21,13 +21,15 @@
     <meta property="og:image" content="{{site.url}}/img/topimage.png" />
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <script type="text/javascript" src="{{ "/assets/js/main.js" | relative_url }}"></script>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     {% include header.html %}
     <center>
     {{content}}
   </center>
-    <br><br><br>
     {% include footer.html %}
   </body>
 </html>

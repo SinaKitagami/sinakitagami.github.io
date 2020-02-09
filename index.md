@@ -9,12 +9,17 @@ title: "思惟奈ちゃん(sina-chan)"
 現在、50サーバーを超えるサーバーで利用されています。あなたのサーバーにも追加してみませんか?
 <br>
 <a class="btn-blue" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
-招待する(Discord)
+<i class="fas fa-angle-double-right"></i>招待する(Discord)
 </a>
 <br>
 
 ### こんなことができます!
-グローバルチャット,音楽機能,サーバー管理機能...その他いろいろ!!
+<div class="yokonarabi">
+{% for command in site.data.functions %}
+<h3>{{ command.name }}</h3>
+{{ command.description }}<br>
+{% endfor %}
+</div>
 <br>
 <h2 class="top-black">おしらせ</h2>
 おしらせです。
@@ -42,7 +47,7 @@ title: "思惟奈ちゃん(sina-chan)"
 
 ### メンバー
 TeamSinaには、様々な特技を持つ人材がいます。ここに書いてあるのは、ほんの一部のメンバーです。
-<div class="member">
+<div class="yokonarabi">
 {% for member in site.data.team %}
 <img src="{{ site.url }}/img/teammember/{{ member.img }}" title="{{ member.name }}" class="team-img">
 {% endfor %}
