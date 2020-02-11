@@ -20,7 +20,7 @@ https://sinakitagami.github.io (以下当サイト)では、利用者の情報�
  - Internet Explorer:<a href="https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies</a>
  - Microsoft Edge:<a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies</a>
 
-## Google Analyticsのについて
+## Google Analyticsについて
 当サイトでは、ホームページの利用状況を把握するためにGoogle Analyticsを利用しています。Google Analyticsから提供されるCookieを利用していますが、個人情報を特定する物ではありません。また、当サイトでは、Google Analyticsの責任を一切負わないものとします。
 
 詳しくは、Google社の公式サイトをご覧下さい:
