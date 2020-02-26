@@ -31,4 +31,4 @@ https://sinakitagami.github.io (以下当サイト)では、利用者の情報�
 以上<br>
 
 最終更新日:2020/02/09<br>
-緊急連絡先:mimiakayou@gmail.com (mii-10)
+緊急連絡先:mii-10@tsc.mii-10-star.jp (mii-10)
