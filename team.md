@@ -8,7 +8,7 @@ tag: ["ALL"]
 これまでの開発者たちのつぶやきを載せています。
 
 {% for post in site.categories.TEAM %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author by {{ post.author }})
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
 {% endfor %}
 <br>
 

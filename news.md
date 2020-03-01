@@ -8,7 +8,7 @@ tag: ["ALL"]
 これまでの更新等を載せています。
 
 {% for post in site.categories.NEWS %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author by {{ post.author }})
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
 {% endfor %}
 <br>
 
