@@ -1,8 +1,8 @@
 url: "https://sinakitagami.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "SinaKitagami"
+title: "Sina-chan"
 description: >- # this means to ignore newlines until "baseurl:"
-  北上思惟奈(Sina-Kitagami)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、50サーバー以上で使われています。あなたも使ってみませんか?
+  思惟奈(Sina-chan)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、50サーバー以上で使われています。あなたも使ってみませんか?
 defaults:
   - scope:
       path: ""

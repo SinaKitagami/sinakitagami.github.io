@@ -16,12 +16,14 @@ title: "思惟奈ちゃん(sina-chan)"
 現在、50サーバーを超えるサーバーで利用されています。あなたのサーバーにも追加してみませんか?
 
 ### こんなことができます!
-<div class="yokonarabi">
 {% for command in site.data.functions %}
-<h3>{{ command.name }}</h3>
-{{ command.description }}<br>
+<table>
+<tr>
+<th>{{ command.name }}</th>
+<td>{{ command.description }}</td>
+</tr>
+</table>
 {% endfor %}
-</div>
 <br>
 <h2 class="top-black">おしらせ</h2>
 おしらせです。
