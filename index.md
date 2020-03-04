@@ -2,16 +2,18 @@
 layout: default
 title: "思惟奈ちゃん(sina-chan)"
 ---
-<section class="top-image"></section>
+<div class="thumbnail">
+    <section class="top-image"></section>
+    <a class="btn-big" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
+    <i class="fas fa-angle-double-right"></i>招待する(Discord)
+</a>
+</div>
+
 <br>
+
 <h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
 思惟奈ちゃん(sina-chan)は、様々な機能を兼ね備えている、Discordbotです。
 現在、50サーバーを超えるサーバーで利用されています。あなたのサーバーにも追加してみませんか?
-<br>
-<a class="btn-blue" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
-<i class="fas fa-angle-double-right"></i>招待する(Discord)
-</a>
-<br>
 
 ### こんなことができます!
 <div class="yokonarabi">

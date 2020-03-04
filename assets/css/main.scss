@@ -30,12 +30,9 @@ body{
       z-index: 30;
       width: 30px;
       height: 30px;
-      background-image: url(../../img/menu.png);
+      background-image: url(../../img/menu2.png);
       background-size: 30px 30px;
       margin:16px;
-    }
-    .header-navbtn:hover,.header-navbtn:active{
-      background-color: #00bcd4;
     }
     @media screen and (min-width:768px){
       .header-navbtn{
@@ -48,10 +45,19 @@ body{
       .header-right a {
         display: inline;
         line-height: 62px;
-        color: snow;
+        color: black;
         margin-left: 7px;
-        font-size: 16px;
         padding: 16px 5px;
+        font-family: 'Quicksand', sans-serif;
+      }
+      .btn-big {
+        font-size:30px;
+      }
+      .top-image {
+        height: 100vh;
+      }
+      .header-right a:hover {
+        border-bottom: 5px solid #25c3d8;
       }
     }
       @media screen and (max-width:767px){
@@ -61,21 +67,27 @@ body{
           padding: 0;
           float: right;
           display: none;
-          background-color: #00627a;
+          background-color: #ffffff;
         }
         .header-right a {
           width: 220px;
           line-height: 62px;
-          color: snow;
+          color: black;
           margin-left: 7px;
           padding: 10px 30px;
+          font-family: 'Quicksand', sans-serif;
+        }
+        .btn-big {
+          font-size:10px;
+        }
+        .top-image {
+          height: 40vh;
         }
       }
     .header-right a:hover {
-        background-color: #006c7d;
+        background-color: #ccf8ff;
         transition: background-color 0.5s;
       }
-    
     .container {
         max-width: 980px;
         padding: 0 30px;
@@ -86,7 +98,7 @@ body{
         height: 62px;
         width: 100%;
         /*box-shadow: 0 0 10px;*/
-        background-color: #0290a3;
+        background-color: #ffffff;
         position: fixed;
         top: 0;
         z-index: 9999;
@@ -95,7 +107,7 @@ body{
     .header-left {
         height: 56px;
         margin-top: 20px;
-        margin-left: 30px;
+        margin-left: 0px;
         margin-right: 3px;
         float: left;
     }
@@ -103,10 +115,15 @@ body{
     .header-right {
         //float: right;
         display: none;
+        
+    }
+    .header-right a{
+      font-size:16px;
+      font-weight: normal;
     }
 
     .header-logo {
-        color: white;
+        padding:0px 0px 0px 5px;
     }
 
     .clear {
@@ -115,7 +132,7 @@ body{
 
 
     .header-right a:hover {
-        background-color: #006c7d;
+        background-color: #ccf8ff;
         transition: background-color 0.5s;
     }
 
@@ -139,6 +156,7 @@ body{
         border: solid 2px #67c5ff;
         border-radius: 3px;
         transition: .4s;
+        margin:20px;
       }
 
       .btn-blue:hover {
@@ -156,10 +174,38 @@ body{
     width: 250px;
     height: 250px;
   }
+.thumbnail {
+  position: relative;
+}
+.thumbnail a{
+  position: absolute;
+  top: 70%;
+  left: 55%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
 
+.btn-big {
+  display: inline-block;
+  padding: 1em 1em;
+  text-decoration: none;
+  background-color: #005e5e;
+  color: #ffffff;
+  border: solid 3px #ffffff;
+  border-radius: 50px;
+  transition: .4s;
+  margin:20px;
+}
+
+.btn-big:hover {
+  background: #67c5ff;
+  color: white;
+}
   .main-title{
     border-bottom: solid 3px skyblue;
     position: relative;
+    margin-bottom:20px;
   }
 
   .main-title:after {
@@ -185,12 +231,12 @@ body{
   }
 
 .top-image {
-    background-image: url("https://cdn.discordapp.com/attachments/662989964111249408/671309866404675603/latest.png");
+    background-image: url("https://media.discordapp.net/attachments/662989964111249408/684571485720936541/2.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 60vh;
-    margin-top: 62px;
+    margin-top: 30px;
+    margin-bottom:10px;
   }
 
   footer{
@@ -212,6 +258,8 @@ body{
     position: relative;
     display: inline-block;
     padding: 0 55px;
+    margin-top:10px;
+    margin-bottom:20px;
   }
 
   .top-black:before, .top-black:after {
