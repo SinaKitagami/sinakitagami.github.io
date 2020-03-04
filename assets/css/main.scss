@@ -52,9 +52,11 @@ body{
       }
       .btn-big {
         font-size:30px;
+        padding: 1em 1em;
       }
       .top-image {
         height: 100vh;
+        background-position: center center;
       }
       .header-right a:hover {
         border-bottom: 5px solid #25c3d8;
@@ -79,9 +81,12 @@ body{
         }
         .btn-big {
           font-size:20px;
+          white-space: nowrap;
+          padding: 15px 40px;
         }
         .top-image {
-          height: 40vh;
+          height: 50vh;
+          background-position: 20% center;
         }
       }
     .header-right a:hover {
@@ -188,7 +193,6 @@ body{
 
 .btn-big {
   display: inline-block;
-  padding: 1em 1em;
   text-decoration: none;
   background-color: #005e5e;
   color: #ffffff;
@@ -232,7 +236,6 @@ body{
 
 .top-image {
     background-image: url("https://media.discordapp.net/attachments/662989964111249408/684571485720936541/2.png");
-    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 30px;
