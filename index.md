@@ -18,6 +18,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 <br>
 <br>
+
 ### こんなことができます!
 <br>
 <ul class = "can">
@@ -50,7 +51,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <h2 class="top-black">開発チームのつぶやき</h2>
 <br>
 {% for post in site.categories.TEAM %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author <br>
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
