@@ -55,7 +55,6 @@ title: "思惟奈ちゃん(sina-chan)"
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
-<br>
 
 ### メンバー
 <br>
