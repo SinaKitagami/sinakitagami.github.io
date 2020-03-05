@@ -16,7 +16,7 @@
 
 - name: 安心の24時間稼働
   description: 安心の24時間稼働!常に利用できます。
-  img: server.png
+  img: 24h.png
 
 - name: サーバー管理機能
   description: 思惟奈ちゃんを用いてサーバーを管理できます。
