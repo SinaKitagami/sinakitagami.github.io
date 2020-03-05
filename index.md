@@ -58,7 +58,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br><br>
 
 ### メンバー
-
+<br>
 TeamSinaには、様々な特技を持つ人材がいます。ここに書いてあるのは、ほんの一部のメンバーです。
 <div class="yokonarabi">
 {% for member in site.data.team %}
@@ -67,7 +67,8 @@ TeamSinaには、様々な特技を持つ人材がいます。ここに書いて
 </div>
 <br>
 <h2 class="top-black">お問い合わせ</h2>
+<br>
 以下の手段よりご連絡ください。
-
+<br>
 <a class="btn-blue" href="https://discord.gg/udA3qgZ"><i class="fas fa-angle-double-right"></i>Discordから</a>
 </center>
