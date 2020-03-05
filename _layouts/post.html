@@ -7,11 +7,14 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <title>{{ site.title }}{% if page.title %} | {{page.title}}{% endif %}</title>
     <link rel="stylesheet" href="{{site.url}}/assets/css/main.css" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Quicksand&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="shortcut icon" type="image/jpg" href="{{site.url}}/img/sinaicon.jpg" />
     <meta name="description" content="{{site.description}}">
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:url" content="{{site.url}}{{page.url}}" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="{{ "/assets/js/main.js" | relative_url }}"></script>
     {% if page.title %}
     <meta property="og:title" content="{{page.title}}" />
     {% else %}
@@ -28,9 +31,10 @@
     {% endif %}
   </head>
 
-  </script>
+
   <body>
 {% include header.html %}
+
 <div class="post-head">
     <h2>{{ page.categories }}</h2>
     <h1>{{ page.title }}</h1>
