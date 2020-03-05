@@ -44,7 +44,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br><br>
 <h2 class="main-title">開発チームについて</h2>
 開発チームについては以下をご覧ください。
-
+<br>
 <a class="btn-blue" href="{{ site.url }}/aboutus"><i class="fas fa-angle-double-right"></i>開発チームについて</a>
 <br><br>
 
@@ -58,6 +58,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br><br>
 
 ### メンバー
+
 TeamSinaには、様々な特技を持つ人材がいます。ここに書いてあるのは、ほんの一部のメンバーです。
 <div class="yokonarabi">
 {% for member in site.data.team %}
