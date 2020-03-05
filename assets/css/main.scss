@@ -66,6 +66,14 @@ body{
         top: 70%;
         left: 55%;
       }
+      .can{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+      .can li{
+        flex:0 0 30%;
+      }
     }
       @media screen and (max-width:767px){
         .header-right {
@@ -362,7 +370,16 @@ body{
   div.yokonarabi * {
     display: inline-block;
 }
+.can {
 
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.can li{
+  margin: 20px 0;
+  padding: 20px;
+}
 /*404*/
 .not-found{
   padding-top:200px;
