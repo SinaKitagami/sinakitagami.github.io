@@ -55,11 +55,16 @@ body{
         padding: 1em 1em;
       }
       .top-image {
+        background-image: url("{{site.url}}/img/Sina.png");
         height: 100vh;
         background-position: center center;
       }
       .header-right a:hover {
         border-bottom: 5px solid #25c3d8;
+      }
+      .thumbnail a{
+        top: 70%;
+        left: 55%;
       }
     }
       @media screen and (max-width:767px){
@@ -85,8 +90,13 @@ body{
           padding: 15px 40px;
         }
         .top-image {
-          height: 50vh;
+          background-image: url("{{site.url}}/img/Sina_Square.png");
+          height: 70vh;
           background-position: 20% center;
+        }
+        .thumbnail a{
+          top: 80%;
+          left: 50%;
         }
       }
     .header-right a:hover {
@@ -184,8 +194,6 @@ body{
 }
 .thumbnail a{
   position: absolute;
-  top: 70%;
-  left: 55%;
   -ms-transform: translate(-50%,-50%);
   -webkit-transform: translate(-50%,-50%);
   transform: translate(-50%,-50%);
@@ -235,7 +243,6 @@ body{
   }
 
 .top-image {
-    background-image: url("https://media.discordapp.net/attachments/662989964111249408/684571485720936541/2.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 30px;
