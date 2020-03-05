@@ -2,6 +2,7 @@
 layout: default
 title: "思惟奈ちゃん(sina-chan)"
 ---
+<center>
 <div class="thumbnail">
     <section class="top-image"></section>
     <a class="btn-big" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
@@ -67,3 +68,4 @@ TeamSinaには、様々な特技を持つ人材がいます。ここに書いて
 以下の手段よりご連絡ください。
 
 <a class="btn-blue" href="https://discord.gg/udA3qgZ"><i class="fas fa-angle-double-right"></i>Discordから</a>
+</center>
