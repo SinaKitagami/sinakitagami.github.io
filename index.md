@@ -19,7 +19,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 <br>
 
-### こんなことができます!
+<h3>こんなことができます!</h3>
 <br>
 <ul class = "can">
     {% for command in site.data.functions %}
