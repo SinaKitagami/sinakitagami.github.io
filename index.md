@@ -55,7 +55,7 @@ title: "思惟奈ちゃん(sina-chan)"
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
-<br><br>
+<br>
 
 ### メンバー
 <br>
@@ -71,4 +71,5 @@ TeamSinaには、様々な特技を持つ人材がいます。ここに書いて
 以下の手段よりご連絡ください。
 <br>
 <a class="btn-blue" href="https://discord.gg/udA3qgZ"><i class="fas fa-angle-double-right"></i>Discordから</a>
+
 </center>
