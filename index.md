@@ -71,5 +71,5 @@ TeamSinaには、様々な特技を持つ人材がいます。ここに書いて
 <br>
 <a class="btn-blue" href="{{site.url}}/contact"><i class="fas fa-angle-double-right"></i>お問い合わせフォーム</a>
 <br>
-<a class="btn-blue" href="https://discord.gg/udA3qgZ"><i class="fas fa-angle-double-right"></i>Discordから</a>
+<a class="btn-blue" href=""><i class="fas fa-angle-double-right"></i>Discordから（現在閉鎖中）</a>
 </center>
