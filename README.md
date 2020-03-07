@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/SinaKitagami/sinakitagami.github.io.svg?branch=master)](https://travis-ci.com/SinaKitagami/sinakitagami.github.io)
 # sinakitagami.github.io
 Sinaのサイトです。
 ## 記事の作り方
