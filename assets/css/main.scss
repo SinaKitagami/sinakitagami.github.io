@@ -397,3 +397,18 @@ ul{
   box-sizing: border-box;
   position: relative;
 }
+
+.btn-tag {
+  display: inline-block;
+  padding: 7px 20px;
+  border-radius: 25px;
+  text-decoration: none;
+  color: #8cd460;
+  background-color: #fff;
+  transition: .4s;
+}
+
+.btn-tag:hover {
+  background-color: #8cd460;
+  color:#fff;
+}
