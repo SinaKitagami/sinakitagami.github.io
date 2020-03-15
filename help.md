@@ -3,6 +3,8 @@ layout: post
 title: "サポート"
 categories: ["help"]
 tag: ["help"]
+date: 2020-01-04 0:00
+author: Team Sina
 ---
 <center>
 ## おやお手伝いが必要ですか?
