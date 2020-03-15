@@ -57,7 +57,7 @@
   permission: グローバルモデレーター,イラスト
   introduction: チーム思惟奈ちゃんに入っていますが、実は驚くほどプログラミングができません。できるのはFPSだけです、よろしくお願いします。
   img: tomosan.png
-  website: なし
+  website: none
   w-s: なし
 
 - name: parfait9
@@ -75,7 +75,7 @@
   permission: グローバルモデレーター,翻訳
   introduction: よくいる平凡な学生です。プログラミングはできません。よろしくね！
   img: pqs.png
-  website: なし
+  website: none
   w-s: なし
 
 - name: AO
