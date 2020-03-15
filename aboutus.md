@@ -32,6 +32,10 @@ Team Sinaは、mii-10をはじめとした、思惟奈ちゃんの開発チー�
 <td>{{ member.command }}</td> 
 </tr>
 <tr>
+<th>ウェブサイト</th>
+<td><a href="{{ member.website }}">{{ member.website }}</a></td>
+</tr>
+<tr>
 <th>自己紹介</th>
 <td>{{ member.introduction }}</td>
 </tr>
