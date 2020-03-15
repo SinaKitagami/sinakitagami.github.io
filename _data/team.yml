@@ -13,6 +13,7 @@
   introduction: もともと思惟奈ちゃんを一人で開発していました。チーム開発に移行してからは全体を仕切るリーダーとして頑張っています。思惟奈ちゃんをよろしくお願いします。
   img: mii-10.png
   website: https://mii-10-star.jp/
+  w-s: Webサイト
 
 - name: きゃらちゃん
   skill: こう見えて音ゲー
@@ -21,6 +22,7 @@
   introduction: きゃらちゃんだぞ！！よろしくな！
   img: group.png
   website: https://www.youtube.com/channel/UCPZDqfGwTfWiWhssUArk4ow
+  w-s: YouTube
 
 - name: T-taku
   skill: Web,discord.py,Python,ドラム,ピアノ(少しだけ)
@@ -28,7 +30,8 @@
   permission: グローバルモデレーター,ウェブ,プログラム
   introduction: T-takuです、主にこのサイトの更新とかデザインとかをやっています。(Icon created by yu0712.)
   img: T-taku.png
-  website: なし
+  website: https://t-taku.jp
+  w-s: Webサイト
 
 - name: ショウマ
   skill: プログラミング(ruby＋Pythonがぷち得意)、ノベル執筆
@@ -37,6 +40,7 @@
   introduction: まったりと彷徨ったりする人物です。よく間違われやすいけどね(｜＜)ﾃﾍﾍﾟﾛ　ともかく宜しくお願いします！
   img: hyouga.png
   website: https://yamiyonoburogu.hatenablog.jp/
+  w-s: Webサイト
 
 - name: Poteto143
   skill: Scratchでゲーム作り
@@ -45,6 +49,7 @@
   introduction: 自由気ままな学生プログラマーです。
   img: potate.png
   website: なし
+  w-s: なし
 
 - name: RoastBox(別名:ともさん)
   skill: 壁紙やテクスチャの作成
@@ -53,6 +58,7 @@
   introduction: チーム思惟奈ちゃんに入っていますが、実は驚くほどプログラミングができません。できるのはFPSだけです、よろしくお願いします。
   img: tomosan.png
   website: なし
+  w-s: なし
 
 - name: parfait9
   skill: Python、HTML/CSS、イラストなど
@@ -61,6 +67,7 @@
   introduction: プログラミングを勉強してる学生です。まだまだ初心者です。
   img: parfait9.png
   website: https://peachparfait.github.io/
+  w-s:Webサイト
 
 - name: きゅー
   skill: 英語、イラスト
@@ -69,6 +76,7 @@
   introduction: よくいる平凡な学生です。プログラミングはできません。よろしくね！
   img: pqs.png
   website: なし
+  w-s: なし
 
 - name: AO
   skill: チェロ、野宿、サバイバル、自作PC
@@ -77,3 +85,4 @@
   introduction: 基本的に居たり居なかったりする謎の多い人物です。
   img: ao.jpg
   website: https://emeguri.pinklink.jp/
+  w-s: Webサイト
