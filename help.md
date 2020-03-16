@@ -17,6 +17,7 @@ author: Team Sina
 {% for post in site.categories %}
 {% if post.tag==help %}<div class="btn-tag" href="{{site.url}}/help{{post.title}}">{{post.title}}</div>
 {% else %}
+{% endif %}
 {% endfor %}
 
 ### 過去に寄せられた質問
