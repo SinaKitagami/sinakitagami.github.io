@@ -396,6 +396,8 @@ ul{
 .content{
   box-sizing: border-box;
   position: relative;
+  padding-bottom: auto;/*←footerの高さ*/
+  box-sizing: border-box;
 }
 
 .btn-tag {
