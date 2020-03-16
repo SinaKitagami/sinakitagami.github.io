@@ -17,6 +17,7 @@ author: Team Sina
 {% for c in site.categories %}
 {% if c.tag==help %}<div class="btn-tag" href="{{site.url}}/help/category/{{c.title}}">{{c.title}}</div>
 {% else %}
+{% endif %}
 {% endfor %}
 
 <h3>過去に寄せられた質問</h3>
