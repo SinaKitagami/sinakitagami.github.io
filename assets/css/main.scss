@@ -396,7 +396,7 @@ ul{
 .content{
   box-sizing: border-box;
   position: relative;
-  padding-bottom: auto;/*←footerの高さ*/
+  padding-bottom: 150px;/*これくらい空けとけば、安心。*/
   box-sizing: border-box;
 }
 
