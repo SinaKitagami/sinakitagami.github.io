@@ -11,7 +11,7 @@ author: Team Sina
 
 おやおや、お手伝いが必要ですか?問題ありません。あなたにぴったりの、ヘルプを探しましょう。
 <br>
-<h2 class="top-black">探す</h2>
+<h2 class="top-black">探す</h2<br>
 以下のカテゴリからお探しください。カテゴリ別に記事をご用意しています。お探しのカテゴリが見つかりませんか?<a class="a-orange" href="{{site.url}}/contant">お問い合わせフォーム</a>へ、ご意見をお聞かせください。
 <br>
 {% for c in site.categories %}
