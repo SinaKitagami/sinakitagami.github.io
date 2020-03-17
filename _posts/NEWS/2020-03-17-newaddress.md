@@ -3,7 +3,7 @@ layout: post
 title: "ドメインが変わったよ!"
 categories: ["NEWS"]
 tag: ["Webサイト"]
-date: 2020-03-07 0:00
+date: 2020-03-17 0:00
 author: 陸ステ＠rspnet.jp代表者(Team Sina)
 ---
 ※記事を書いているのは、T-takuです。
