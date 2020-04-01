@@ -396,6 +396,8 @@ ul{
 .content{
   box-sizing: border-box;
   position: relative;
+  padding-bottom: 150px;/*これくらい空けとけば、安心。*/
+  box-sizing: border-box;
 }
 
 .btn-tag {
