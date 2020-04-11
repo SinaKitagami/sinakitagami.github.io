@@ -77,6 +77,9 @@ body{
       body{
         padding-bottom: 380px;
       }
+      footer{
+        font-size:16px;
+      }
     }
       @media screen and (max-width:767px){
         .header-right {
@@ -110,7 +113,12 @@ body{
           left: 50%;
         }
         body{
-          padding-bottom: 500px;
+          padding-bottom: 350px;
+        }
+        footer{
+          font-size:13px;
+          line-height: 1.5em;
+          font-weight: 400;
         }
       }
     .header-right a:hover {
@@ -276,6 +284,7 @@ body{
     i{
       font-size:25px;
     }
+
   }
   footer>a{
     color: #fff !important;
