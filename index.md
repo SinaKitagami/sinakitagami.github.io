@@ -13,8 +13,9 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 
 <h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
-思惟奈ちゃん(sina-chan)は、様々な機能を兼ね備えている、Discordbotです。
-現在、50サーバーを超えるサーバーで利用されています。あなたのサーバーにも追加してみませんか?
+思惟奈ちゃん(sina-chan)は、様々な機能を<br class="java">兼ね備えている、Discordbotです。
+<br class="java">
+現在、50サーバーを超えるサーバーで<br class="java">利用されています。<br class="java">あなたのサーバーにも追加してみませんか?
 <br>
 <br>
 <br>
@@ -58,7 +59,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 <h3>メンバー</h3>
 <br>
-TeamSinaには、様々な特技を持つ人材がいます。ここに書いてあるのは、ほんの一部のメンバーです。
+TeamSinaには、様々な特技を持つ<br class="java">人材がいます。ここに書いてあるのは、<br class="java">ほんの一部のメンバーです。
 <div class="yokonarabi">
 {% for member in site.data.team %}
 <img src="{{ site.url }}/img/teammember/{{ member.img }}" title="{{ member.name }}" class="team-img">

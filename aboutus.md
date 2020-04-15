@@ -6,9 +6,9 @@ author: Team Sina
 ---
 <center>
 <h2 class="main-title">Team Sinaについて</h2>
-Team Sinaは、mii-10をはじめとした、思惟奈ちゃんの開発チームです。<br>
+<span class="letter-spacing">Team Sinaは、mii-10をはじめとした、</span><br class="java">思惟奈ちゃんの開発チームです。<br>
 
-このページでは、メンバーを紹介します。<br>
+このページでは、<br class="java">メンバーを紹介します。<br>
 
 ちなみにページの日付は、設立時の日付です。<br>
 <h2 class="top-black">メンバー</h2><br>
