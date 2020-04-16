@@ -83,6 +83,9 @@ body{
       .java{
         display: none;
       }
+      .header-logo{
+        left:-100px;
+      }
     }
       @media screen and (max-width:767px){
         .header-right {
@@ -92,6 +95,7 @@ body{
           float: right;
           display: none;
           background-color: #ffffff;
+          box-shadow: 2px 2px 20px 2px #04919125;
         }
         .header-right a {
           width: 220px;
@@ -129,6 +133,9 @@ body{
         .form{
           width:300px;
         }
+        .header-logo{
+          left:0;
+        }
       }
     .header-right a:hover {
         background-color: #ccf8ff;
@@ -148,6 +155,7 @@ body{
         position: fixed;
         top: 0;
         z-index: 9999;
+        box-shadow: 2px 2px 20px 2px #04919125;
     }
 
     .header-left {
@@ -170,6 +178,7 @@ body{
 
     .header-logo {
         padding:0px 0px 0px 5px;
+        position: relative;
     }
 
     .clear {
@@ -239,6 +248,7 @@ body{
   border-radius: 50px;
   transition: .4s;
   margin:20px;
+  box-shadow: 2px 2px 20px 2px #61616150;
 }
 
 .btn-big:hover {
