@@ -153,7 +153,7 @@ body{
         /*box-shadow: 0 0 10px;*/
         background-color: #ffffff;
         position: fixed;
-        top: 0;
+        /*top: 0;*/
         z-index: 9999;
         box-shadow: 2px 2px 20px 2px #04919125;
     }
@@ -447,4 +447,16 @@ ul{
 .btn-tag:hover {
   background-color: #8cd460;
   color:#fff;
+}
+
+.announce {
+  margin-left: 15px;
+  height: 62px;
+  width: 100%;
+  /*box-shadow: 0 0 10px;*/
+  background-color: #df4d4d;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+  color: #fff;
 }
