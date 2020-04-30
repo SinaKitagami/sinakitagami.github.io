@@ -1,5 +1,6 @@
 ---
 ---
+$announce-height  : 40px !default;
 /*共通部分*/
     * {
         margin: 0;
@@ -25,7 +26,7 @@ body{
     .header-navbtn{
       display: block;
       position: absolute;
-      top: 30px;
+      top: 0;
       right: 0;
       z-index: 30;
       width: 30px;
@@ -99,18 +100,10 @@ body{
         left:-100px;
       }
       .announce {
-        margin-left: 0;
-        height: 30px;
-        width: 30%;
-        background-color: #df4d4d;
-        position: fixed;
-        top: 0;
-        z-index: 9999;
-        color: #fff;
-        text-align: center;
-        font-size: 5px;
-        padding: 0.5em 1em;
-        }
+        font-size: 18px;
+        height: $announce-height;
+        padding: 0.1em 1em;
+      }
       }
       @media screen and (max-width:767px){
         .header-right {
@@ -161,6 +154,12 @@ body{
         .header-logo{
           left:0;
         }
+        .announce {
+          font-size: 12px;
+          height: $announce-height;
+          line-height: 13px;
+          padding-top: 8px;
+        }
       }
     .header-right a:hover {
         background-color: #ccf8ff;
@@ -178,7 +177,7 @@ body{
         /*box-shadow: 0 0 10px;*/
         background-color: #ffffff;
         position: fixed;
-        top: 62px;
+        top: $announce-height;
         z-index: 9999;
         box-shadow: 2px 2px 20px 2px #04919125;
     }
@@ -190,19 +189,7 @@ body{
         margin-right: 3px;
         float: left;
     }
-        .announce {
-          margin-left: 0;
-          height: 30px;
-          width: 100%;
-          background-color: #df4d4d;
-          position: fixed;
-          top: 0;
-          z-index: 9999;
-          color: #fff;
-          text-align: center;
-          font-size: 5px;
-          padding: 0.5em 1em;
-          }
+
     .header-right a{
       font-size:16px;
       font-weight: normal;
@@ -478,7 +465,6 @@ ul{
 
 .announce {
   margin-left: 0;
-  height: 62px;
   width: 100%;
   background-color: #df4d4d;
   position: fixed;
@@ -486,8 +472,6 @@ ul{
   z-index: 9999;
   color: #fff;
   text-align: center;
-  font-size: 30px;
-  padding: 0.5em 1em;
 }
 
 .fff-a{
