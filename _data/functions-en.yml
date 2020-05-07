@@ -1,0 +1,23 @@
+- name: Leveling
+  description: Make your level up with talking.
+  img: level.png
+
+- name: Music Player
+  description: Play music on YouTube in Voice Channel.
+  img: music.png
+
+- name: Grobal Chat
+  description: You can talk through server to server.
+  img: globalchat.png
+
+- name: Useful UI
+  description: Manipulate with UI that is easy to understand.
+  img: ui.png
+
+- name: Running All Day
+  description: This bot running throughout the day. So Can be used always.
+  img: 24h.png
+
+- name: Server Management
+  description: Make your server useful with this bot.
+  img: settings.png
