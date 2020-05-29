@@ -2,7 +2,7 @@ url: "https://sina-chan-d.com" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Sina-chan"
 description: >- # this means to ignore newlines until "baseurl:"
-  思惟奈(Sina-chan)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、50サーバー以上で使われています。あなたも使ってみませんか?
+  思惟奈(Sina-chan)は、mii-10によって作成された、高機能/高性能のDiscordボットです。現在、100サーバー以上で使われています。あなたも使ってみませんか?
 defaults:
   - scope:
       path: ""
