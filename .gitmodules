@@ -1,0 +1,3 @@
+[submodule "src/lib/project"]
+    path = src/lib/project
+    url = git://github.com/SinaKitagami/sinakitagami.github.io.git
