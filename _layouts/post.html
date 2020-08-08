@@ -13,6 +13,7 @@ layout: default
     <h3><i class="far fa-calendar-alt"></i> {{ page.date | date:"%Y/%-m/%d" }}</h3>
     {% else %}
     <!--日付なし--><br>
+    {% endif %}
     {% if page.author %}
     <h4><i class="fas fa-user-friends"></i> {{ page.author }}</h4>
     {% else %}
