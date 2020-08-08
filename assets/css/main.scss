@@ -158,7 +158,7 @@ body{
           font-size: 12px;
           height: $announce-height;
           line-height: 13px;
-          padding-top: 8px;
+          /*padding-top: 8px;*/
         }
       }
     .header-right a:hover {
@@ -177,7 +177,7 @@ body{
         /*box-shadow: 0 0 10px;*/
         background-color: #ffffff;
         position: fixed;
-        top: $announce-height;
+        /*top: $announce-height;*/
         z-index: 9999;
         box-shadow: 2px 2px 20px 2px #04919125;
     }
