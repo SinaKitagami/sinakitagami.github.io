@@ -3,6 +3,8 @@ layout: post
 title: "おしらせ"
 categories: ["NEWS"]
 tag: ["ALL"]
+author: "TeamSina"
+date: 2020より
 ---
 ## お知らせ一覧
 これまでの更新等を載せています。
