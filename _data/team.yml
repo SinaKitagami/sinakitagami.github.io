@@ -16,36 +16,15 @@
   website2: none
   w-s: Webサイト
 
-- name: きゃらちゃん
-  skill: こう見えて音ゲー
-  command: なし
-  permission: グローバルモデレーター,サポート窓口
-  introduction: きゃらちゃんだぞ！！よろしくな！
-  img: group.png
-  website: https://www.youtube.com/channel/UCPZDqfGwTfWiWhssUArk4ow
-  website2: none
-  w-s: YouTube
-
 - name: T-taku
   skill: Web,discord.py,Python,ドラム,ピアノ(少しだけ)
   command: なし
-  permission: グローバルモデレーター,ウェブ,プログラム
+  permission: ウェブ,プログラム
   introduction: T-takuです、主にこのサイトの更新とかデザインとかをやっています。(Icon created by yu0712.)
   img: T-taku.png
   website: https://t-taku.jp
   website2: none
   w-s: Webサイト
-
-- name: ショウマ
-  skill: プログラミング(ruby＋Pythonがぷち得意)、ノベル執筆
-  command: tenki
-  permission: グローバルモデレーター
-  introduction: まったりと彷徨ったりする人物です。よく間違われやすいけどね(｜＜)ﾃﾍﾍﾟﾛ　ともかく宜しくお願いします！
-  img: hyouga.png
-  website: https://yamiyonoburogu.hatenablog.jp/
-  website2: https://hyouma.risupu-sv.xyz/
-  w-s: ブログ
-  w-s2: BOTのWebサイト
 
 - name: Poteto143
   skill: Scratchでゲーム作り
@@ -106,3 +85,21 @@
   website: https://risupu.jp/
   website2: none
   w-s: Webサイト
+
+- name: 三橋優希(Yuki384)
+  skill: CSS、Scss、C#、Adobe製品 | 資格として、1級カラーコーディネーター
+  command: なし
+  permission: Webスーパーアドバイザー
+  introduction: 普段はRailsチュートリアルのWebデザイナーをやっていたり、教室講師をしたりしています。<br>Webサイト制作のアドバイザー枠でご招待いただきました🎨
+  img: yuki384.png
+  website: https://yuki384.github.io/
+  w-s: Webサイト
+
+- name: grarich
+  skill: Python
+  command: なし
+  permission: プログラマー
+  introduction: Pythonよく書いてる人です。<br>よろしくお願いします。
+  img: grarich.png
+  website: none
+  w-s: なし
