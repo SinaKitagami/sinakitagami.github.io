@@ -17,5 +17,3 @@ fields:
 - type: text
   name: author
   label: author
-pages:
-- _posts/NEWS/test.md
