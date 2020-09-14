@@ -39,7 +39,7 @@ body{
       .header-navbtn{
         display: block;
         position: absolute;
-        /*top: 30px;*/
+        top: 30px;
         right: 0;
         z-index: 30;
         width: 30px;
@@ -444,7 +444,7 @@ ul{
 .content{
   box-sizing: border-box;
   position: relative;
-  padding-bottom: 150px;/*これくらい空けとけば、安心。*/
+  padding-bottom: 100px;/*これくらい空けとけば、安心。*/
   box-sizing: border-box;
 }
 
