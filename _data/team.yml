@@ -26,26 +26,6 @@
   website2: none
   w-s: Webサイト
 
-- name: Poteto143
-  skill: Scratchでゲーム作り
-  command: jyanken
-  permission: グローバルモデレーター,ウェブ,プログラム
-  introduction: 自由気ままな学生プログラマーです。
-  img: potate.png
-  website: https://poteto143.github.io/Poteto143s_diary/
-  website2: none
-  w-s: Webサイト
-
-- name: RoastBox(別名:ともさん)
-  skill: 壁紙やテクスチャの作成
-  command: なし
-  permission: グローバルモデレーター,イラスト
-  introduction: チーム思惟奈ちゃんに入っていますが、実は驚くほどプログラミングができません。できるのはFPSだけです、よろしくお願いします。
-  img: tomosan.png
-  website: none
-  website2: none
-  w-s: なし
-
 - name: parfait9
   skill: Python、HTML/CSS、イラストなど
   command: symmetry(一部)
@@ -65,16 +45,6 @@
   website: none
   website2: none
   w-s: なし
-
-- name: AO
-  skill: チェロ、野宿、サバイバル、自作PC
-  command: なし
-  permission: グローバルモデレーター,サポート窓口
-  introduction: 基本的に居たり居なかったりする謎の多い人物です。
-  img: ao.jpg
-  website: https://emeguri.pinklink.jp/
-  website2: none
-  w-s: Webサイト
 
 - name: 陸ステ
   skill: インターネット(ネットワーク)関連、インフラ関係
@@ -96,12 +66,3 @@
   website2: none
   w-s: Webサイト
   w-s2: なし
-
-- name: grarich
-  skill: Python
-  command: なし
-  permission: プログラマー
-  introduction: Pythonよく書いてる人です。<br>よろしくお願いします。
-  img: grarich.png
-  website: none
-  w-s: なし
