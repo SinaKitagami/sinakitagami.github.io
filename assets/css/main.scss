@@ -35,7 +35,7 @@ body{
       background-size: 30px 30px;
       margin:16px;
     }
-    @media screen and (min-width:768px){
+    @media screen and (min-width:800px){
       .header-navbtn{
         display: block;
         position: absolute;
@@ -105,7 +105,7 @@ body{
         padding: 0.1em 1em;
       }
       }
-      @media screen and (max-width:767px){
+      @media screen and (max-width:800px){
         .header-right {
           width: 220px;
           margin-top:0;
