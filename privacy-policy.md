@@ -15,10 +15,12 @@ https://sina-chan-d.com (以下当サイト)では、利用者の情報を取得
 
 また、Cookieは利用者自身がいつでもご自身の使用ブラウザより削除することができます。詳しくは、各ブラウザのヘルプページをご覧下さい。:<br>
 
- - Google Chrome:<a href="https://support.google.com/chrome/answer/95647" class="a-orange">https://support.google.com/chrome/answer/95647</a>
- - Firefox:<a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox</a>
- - Internet Explorer:<a href="https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies</a>
- - Microsoft Edge:<a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies</a>
+ - Google Chrome:<a href="https://support.google.com/chrome/answer/95647" class="a-orange">Chrome で Cookie の削除、有効化、管理を行う</a>
+ - Firefox:<a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">Firefox に保存された Cookie とサイトデータを消去する</a>
+ - Internet Explorer:<a href="https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies" class="a-orange">Cookie の削除と管理を行う</a>
+ - Microsoft Edge:<a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">Microsoft Edge で Cookie を削除する</a>
+
+上記のブラウザ以外につきましては、ご利用ブラウザのサポートページをご覧ください。
 
 ## Google Analyticsについて
 当サイトでは、ホームページの利用状況を把握するためにGoogle Analyticsを利用しています。Google Analyticsから提供されるCookieを利用していますが、個人情報を特定する物ではありません。また、当サイトでは、Google Analyticsの責任を一切負わないものとします。
