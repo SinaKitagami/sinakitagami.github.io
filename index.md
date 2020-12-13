@@ -44,6 +44,13 @@ title: "思惟奈ちゃん(sina-chan)"
 <a class="btn-blue" href="{{site.url}}/news"><i class="fas fa-angle-double-right"></i>もっと見る</a>
 <br><br>
 <h2 class="main-title">開発チームについて</h2>
+<br>
+TeamSinaには、様々な特技を持つ<br class="java">人材がいます。ここに書いてあるのは、<br class="java">ほんの一部のメンバーです。
+<div class="yokonarabi">
+{% for member in site.data.team %}
+<img src="{{ site.url }}/img/teammember/{{ member.img }}" title="{{ member.name }}" class="team-img">
+{% endfor %}
+</div>
 開発チームについては以下をご覧ください。
 <br>
 <a class="btn-blue" href="{{ site.url }}/aboutus"><i class="fas fa-angle-double-right"></i>開発チームについて</a>
@@ -56,15 +63,6 @@ title: "思惟奈ちゃん(sina-chan)"
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
-<br>
-<h3>メンバー</h3>
-<br>
-TeamSinaには、様々な特技を持つ<br class="java">人材がいます。ここに書いてあるのは、<br class="java">ほんの一部のメンバーです。
-<div class="yokonarabi">
-{% for member in site.data.team %}
-<img src="{{ site.url }}/img/teammember/{{ member.img }}" title="{{ member.name }}" class="team-img">
-{% endfor %}
-</div>
 <br>
 <h2 class="top-black">お問い合わせ</h2>
 <br>
