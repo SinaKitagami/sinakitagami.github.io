@@ -15,7 +15,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
 思惟奈ちゃん(sina-chan)は、様々な機能を<br class="java">兼ね備えている、Discordbotです。
 <br class="java">
-現在、100サーバーを超えるサーバーで<br class="java">利用されています。<br class="java">あなたのサーバーにも追加してみませんか?
+現在、200サーバーを超えるサーバーで<br class="java">利用されています。<br class="java">あなたのサーバーにも追加してみませんか?
 <br>
 <br>
 <br>
