@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="420" viewBox="0 0 600 420">
-  <defs>
-    <clipPath id="clip-Web_1280_1">
-      <rect width="600" height="420"/>
-    </clipPath>
-  </defs>
-  <g id="Web_1280_1" data-name="Web 1280 – 1" clip-path="url(#clip-Web_1280_1)">
-    <text id="運営" transform="translate(200 248)" fill="#fff" font-size="100" font-family="BIZ-UDGothic, BIZ UDGothic"><tspan x="0" y="0">運営</tspan></text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="420" viewBox="0 0 600 420"><defs><clipPath id="clip-Web_1280_1"><rect width="600" height="420"/></clipPath></defs><g id="Web_1280_1" clip-path="url(#clip-Web_1280_1)" data-name="Web 1280 – 1"><text id="運営" fill="#fff" font-family="BIZ-UDGothic, BIZ UDGothic" font-size="100" transform="translate(200 248)"><tspan x="0" y="0">運営</tspan></text></g></svg>
