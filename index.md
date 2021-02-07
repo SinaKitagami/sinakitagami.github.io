@@ -64,7 +64,7 @@ TeamSinaには、様々な特技を持つ<br class="java">人材がいます。�
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
 <br>
-<h2 class="top-black">お問い合わせ</h2>
+<h2 class="main-title">お問い合わせ</h2>
 <br>
 以下の手段よりご連絡ください。
 <br>
