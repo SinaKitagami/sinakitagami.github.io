@@ -35,7 +35,6 @@ title: "思惟奈ちゃん(sina-chan)"
 </ul>
 <br>
 <h2 class="top-black">おしらせ</h2>
-<br>おしらせです。
 <br>
 {% for post in site.categories.NEWS limit:5 %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
