@@ -14,6 +14,6 @@ date: 2020より
 これまでの更新等を載せています。
 
 {% for post in site.categories.NEWS %}
-<span class="tag">{{ post.date | date:"%Y/%-m/%d" }}</span> <a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
 {% endfor %}
 <br>

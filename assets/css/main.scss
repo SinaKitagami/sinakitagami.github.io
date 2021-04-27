@@ -205,7 +205,7 @@ body{
 
 
     .header-right a:hover {
-        background-color: #38b5a1;
+        background-color: #b4f3e9;
         transition: background-color 0.5s;
     }
 
@@ -420,7 +420,6 @@ body{
     display: inline-block;
 }
 .can {
-
   list-style: none;
   margin: 0;
   padding: 0;
@@ -479,14 +478,4 @@ ul{
 
 strong{
   border-bottom: 2px solid #df4d4d;
-}
-
-.tag {
-  display: inline-block;
-  padding: 0.4em 0.8em;
-  font-size: 0.8em;
-  text-decoration: none;
-  user-select: none;
-  border: 2.3px solid #38b5a1;
-  border-radius: 20px;
 }

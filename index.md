@@ -37,7 +37,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <h2 class="top-black">おしらせ</h2>
 <br>
 {% for post in site.categories.NEWS limit:5 %}
-<span class="tag">{{ post.date | date:"%Y/%-m/%d" }}</span> <a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{{ post.date | date:"%Y/%-m/%d" }}<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/news"><i class="fas fa-angle-double-right"></i>もっと見る</a>
@@ -58,7 +58,7 @@ TeamSinaには、様々な特技を持つ<br class="java">人材がいます。�
 <h2 class="top-black">開発チームのつぶやき</h2>
 <br>
 {% for post in site.categories.TEAM limit:5 %}
-<span class="tag">{{ post.date | date:"%Y/%-m/%d" }}</span> <a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/team"><i class="fas fa-angle-double-right"></i>もっと見る</a>
