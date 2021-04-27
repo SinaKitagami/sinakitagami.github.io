@@ -12,6 +12,6 @@ tag:
 これまでの開発者たちのつぶやきを載せています。
 
 {% for post in site.categories.TEAM %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
+<span class="tag">{{ post.date | date:"%Y/%-m/%d" }}</span> <a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>(Author: {{ post.author }})
 {% endfor %}
 <br>
