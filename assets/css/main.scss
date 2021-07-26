@@ -1,6 +1,8 @@
 ---
 ---
 $announce-height  : 40px !default;
+$main-color: #67c5ff;
+
 /*共通部分*/
     * {
         margin: 0;
@@ -267,20 +269,23 @@ body{
   background: #67c5ff;
   color: white;
 }
-  .main-title{
-    border-bottom: solid 3px skyblue;
-    position: relative;
-    margin-bottom:20px;
-  }
 
-  .main-title:after {
-    position: absolute;
-    content: " ";
-    display: block;
-    border-bottom: solid 3px #77e469;
-    bottom: -3px;
-    width: 50%;
-  }
+.main-title {
+  position: relative;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.main-titile:before {
+  position: absolute;
+  bottom: -10px;
+  left: calc(50% - 30px);
+  width: 60px;
+  height: 5px;
+  content: '';
+  border-radius: 3px;
+  background: $main-color;
+}
 
 .topBn li{
     display:inline-block;
