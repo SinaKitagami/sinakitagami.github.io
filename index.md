@@ -38,7 +38,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <h2 class="top-black">おしらせ</h2>
 <br>
 {% for post in site.categories.NEWS limit:5 %}
-{{ post.date | date:"%Y/%-m/%d" }}<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
 {% endfor %}
 <br>
 <a class="btn-blue" href="{{site.url}}/news"><i class="fas fa-angle-double-right"></i>もっと見る</a>
