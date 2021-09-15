@@ -16,7 +16,7 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 思惟奈ちゃん(sina-chan)は、様々な機能を<br class="java">兼ね備えている、Discordbotです。
 <br class="java">
-現在、700サーバーを超えるサーバーで<br class="java">利用されています。<br class="java">あなたのサーバーにも追加してみませんか?
+現在、1000サーバーを超えるサーバーで<br class="java">利用されています。<br class="java">あなたのサーバーにも追加してみませんか?
 <br>
 <br>
 <br>
@@ -56,7 +56,7 @@ TeamSinaには、様々な特技を持つ<br class="java">人材がいます。�
 <a class="btn-blue" href="{{ site.url }}/aboutus"><i class="fas fa-angle-double-right"></i>開発チームについて</a>
 <br><br>
 
-<h2 class="top-black">開発チームのつぶやき</h2>
+<h2 class="top-black">開発チームのブログ</h2>
 <br>
 {% for post in site.categories.TEAM limit:5 %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
