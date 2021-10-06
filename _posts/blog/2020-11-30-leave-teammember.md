@@ -2,9 +2,9 @@
 layout: post
 title: チームメンバー辞職について
 categories:
-- TEAM
+- Blog
 date: 2020-11-30 00:00:00 +0900
-author: T-taku(TeamSina)
+author: T-taku(Team Sina)
 
 ---
 ## チームメンバー辞職について

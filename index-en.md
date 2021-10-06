@@ -48,9 +48,9 @@ See following page.
 <a class="btn-blue" href="{{ site.url }}/aboutus"><i class="fas fa-angle-double-right"></i></a>
 <br><br>
 
-<h2 class="top-black">Developer's tweet</h2>
+<h2 class="top-black">Developer's blog</h2>
 <br>
-{% for post in site.categories.TEAM %}
+{% for post in site.categories.Blog %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
 {% endfor %}
 <br>

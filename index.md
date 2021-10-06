@@ -58,7 +58,7 @@ TeamSinaには、様々な特技を持つ<br class="java">人材がいます。�
 
 <h2 class="top-black">開発チームのブログ</h2>
 <br>
-{% for post in site.categories.TEAM limit:5 %}
+{% for post in site.categories.Blog limit:5 %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>({{ post.author }})<br>
 {% endfor %}
 <br>

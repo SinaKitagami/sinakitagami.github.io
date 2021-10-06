@@ -1,7 +1,7 @@
 ---
 layout: post
 title: タイトル(投稿を自由にできるようにした話)
-categories: [TEAM]
+categories: [Blog]
 date: 書いてる時間(2020-02-02 16:45)
 author: 書いてる人(T-taku)
 ---
