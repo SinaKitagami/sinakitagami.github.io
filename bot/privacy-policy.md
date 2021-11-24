@@ -2,7 +2,7 @@
 layout: post
 title: プライバシーポリシー(Bot)
 categories: [Bot]
-date: 2021-11-16 0:00
+date: 2021-11-24 0:00
 author: Team Sina
 ---
 
