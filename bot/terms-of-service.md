@@ -6,7 +6,7 @@ date: 2021-11-16 0:00
 author: Team Sina
 ---
 
-最終更新日 2021/11/16 バージョン 1.0 [(変更履歴)](https://github.com/SinaKitagami/sinakitagami.github.io/commits/master/bot/terms-of-service.md)
+最終更新日 2021/11/24 バージョン 1.0 [(変更履歴)](https://github.com/SinaKitagami/sinakitagami.github.io/commits/master/bot/terms-of-service.md)
 
 ---
 # 思惟奈ちゃん利用規約
