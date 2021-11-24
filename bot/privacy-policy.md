@@ -1,6 +1,6 @@
 ---
 layout: post
-title: プライバシーポリシー(Bot)
+title: 思惟奈ちゃんプライバシーポリシー(ボット)
 categories: [Bot]
 date: 2021-11-24 0:00
 author: Team Sina
@@ -9,7 +9,6 @@ author: Team Sina
 最終更新日 2021/11/24 バージョン 1.0 [(変更履歴)](https://github.com/SinaKitagami/sinakitagami.github.io/commits/master/bot/privacy-policy.md)
 
 ---
-# 思惟奈ちゃんプライバシーポリシー
 
 ## 1. 前提
 
