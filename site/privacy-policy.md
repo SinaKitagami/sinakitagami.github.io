@@ -1,6 +1,6 @@
 ---
 layout: post
-title: プライバシーポリシー
+title: プライバシーポリシー(サイト)
 categories: [Site]
 date: 2020-02-09 0:00
 author: Team Sina
