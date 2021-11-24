@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 利用規約(Bot)
+title: 思惟奈ちゃん利用規約
 categories: [Bot]
 date: 2021-11-24 0:00
 author: Team Sina
@@ -9,7 +9,6 @@ author: Team Sina
 最終更新日 2021/11/24 バージョン 1.0 [(変更履歴)](https://github.com/SinaKitagami/sinakitagami.github.io/commits/master/bot/terms-of-service.md)
 
 ---
-# 思惟奈ちゃん利用規約
 
 ## 1. 前提
 
