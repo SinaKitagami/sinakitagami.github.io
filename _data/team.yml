@@ -66,3 +66,13 @@
   website2: none
   w-s: Webサイト
   w-s2: なし
+
+- name: midorichan
+  skill: Python, Java (ちょっとだけ), フルート, ピッコロ
+  command: なし
+  permission: unknown
+  introduction: コーディングちょこっとしてるLJKですっ
+  img: midorichan.png
+  website: https://midorichan.cf
+  website2: none
+  w-s: Webサイト
