@@ -78,3 +78,14 @@
   website2: none
   w-s: Webサイト
   w-s2: なし
+
+- name: RuRI
+  skill: Python, Keras, Javascript, Laravel, 数学, ロゴ作成
+  command: なし
+  permission: 機械学習を使用した機能(定型文ではない会話など)の開発
+  introduction: 普段は作曲AIの開発をしている中学生の女装男子です。青春を楽しみたかった。
+  img: ruri.svg
+  website: none
+  website2: none
+  w-s: なし
+  w-s2: なし
