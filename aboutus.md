@@ -21,7 +21,7 @@ author: Team Sina
 <br>
 <table>
 <tr>
-<th>特技</th>
+<th>スキル</th>
 <td>{{ member.skill }}</td>
 </tr>
 <tr>

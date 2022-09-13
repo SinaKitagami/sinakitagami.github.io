@@ -7,7 +7,7 @@
 #website サイト
 
 - name: みぃてん☆
-  skill: プログラミングとエレクトーンです！
+  skill: プログラミング(Python/C#),エレクトーン
   command: ほとんど全部を彼が作成しました。
   permission: オーナー
   introduction: もともと思惟奈ちゃんを一人で開発していました。チーム開発に移行してからは全体を仕切るリーダーとして頑張っています。思惟奈ちゃんをよろしくお願いします。
@@ -26,55 +26,12 @@
   website2: none
   w-s: Webサイト
 
-- name: parfait9
-  skill: Python、HTML/CSS、イラストなど
-  command: symmetry(一部)
-  permission: グローバルモデレーター,ウェブ,プログラム,イラスト
-  introduction: プログラミングを勉強してる学生です。まだまだ初心者です。
-  img: parfait9.png
-  website: https://peachparfait.github.io/
-  website2: none
-  w-s: Webサイト
-
-- name: きゅー
-  skill: 英語、イラスト
+- name: takumi0213
+  skill: インフラ整備・文書作成・法務(ちょっとだけ)
   command: なし
-  permission: グローバルモデレーター,翻訳
-  introduction: よくいる平凡な学生です。プログラミングはできません。よろしくね！
-  img: pqs.png
+  permission: 法務・インフラ基盤構築
+  introduction: 思惟奈ちゃんのリーダーにとある件(利用規約絡み)を頼まれそこから法務等をやってます。<br>よろしくお願いします！
+  img: takumi0213.png
   website: none
   website2: none
   w-s: なし
-
-- name: 陸ステ
-  skill: インターネット(ネットワーク)関連、インフラ関係
-  command: なし
-  permission: グローバルモデレーター,サポート窓口,サーバー提供,ドメイン関連
-  introduction: はじめまして！「陸ステ」です。私は、チーム☆思惟奈ちゃんはもちろん、私が代表・管理者として運営等もしています！(rspnet.jp (RisuPu)等…)<br>年齢等は非公開です。<br>よろしくお願いします！！
-  img: riku.png
-  website: https://risupu.jp/
-  website2: none
-  w-s: Webサイト
-  w-s2: なし
-
-- name: 三橋優希(Yuki384)
-  skill: CSS、Scss、C#、Adobe製品 | 資格として、1級カラーコーディネーター
-  command: なし
-  permission: Webスーパーアドバイザー
-  introduction: 普段はRailsチュートリアルのWebデザイナーをやっていたり、教室講師をしたりしています。<br>Webサイト制作のアドバイザー枠でご招待いただきました🎨
-  img: yuki384.png
-  website: https://yuki384.github.io/
-  website2: none
-  w-s: Webサイト
-  w-s2: なし
-
-- name: midorichan
-  skill: Python, Java (ちょっとだけ), フルート, ピッコロ
-  command: なし
-  permission: unknown
-  introduction: コーディングちょこっとしてるLJKですっ
-  img: midorichan.png
-  website: https://midorichan.cf
-  website2: none
-  w-s: Webサイト
-  w-s2: なし
