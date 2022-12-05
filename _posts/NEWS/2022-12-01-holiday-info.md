@@ -20,6 +20,7 @@ __休業期間中に対応しないもの__
 
 よろしくお願い致します。
 
+
 We would like to inform you of our support holiday period during the year-end and New Year's holidays.
 
 __Year-end and New Year holidays__
