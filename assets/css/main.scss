@@ -437,8 +437,8 @@ body{
   padding: 20px;
 }
 /*404*/
-.not-found{
-  padding-top:200px;
+.not-found .check-list{
+  margin: 20px;
 }
 
 ul{
@@ -455,6 +455,7 @@ ol{
   position: relative;
   padding-bottom: 50px;/*これくらい空けとけば、安心。*/
   box-sizing: border-box;
+  margin-top: 200px;
 }
 
 .btn-tag {
