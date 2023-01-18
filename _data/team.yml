@@ -36,12 +36,12 @@
   website2: none
   w-s: なし
 
-- name: RuRI
+- name: 白下
   skill: Web, 機械学習, 動画編集
   command: なし
   permission: 会話機能の開発等
-  introduction: 趣味でAI関係をやっている中二の女装男子です。<br>ボカロPの方々への嫉妬心をバネに作曲AIを開発し始めた結果ずるずると長く続いて今に至ります。<br>ふつつかものですがよろしくお願いします。
-  img: ruritech.svg
+  introduction: 趣味でAI関係をやっている中二の者です。
+  img: fish.svg
   website: none
   website2: none
   w-s: なし
