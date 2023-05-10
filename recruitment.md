@@ -9,7 +9,6 @@ author: TeamSina
 date: 2023より
 
 ---
-<center>
 <h3 class="main-title">Team Sinaに参加してみませんか？</h3>
 <br>
 Team Sinaでは随時新しいチームメンバーを募集しています。<br>
