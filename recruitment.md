@@ -19,6 +19,6 @@ Team Sinaでは随時新しいチームメンバーを募集しています。<b
 <h3>現在掲載中の求人</h3>
 
 {% for post in site.categories.recruitment %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>
+{{ post.date | date:"%Y/%m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>
 {% endfor %}
 <br>
