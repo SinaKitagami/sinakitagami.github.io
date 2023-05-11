@@ -3,7 +3,7 @@ layout: post
 title: 公式サイトのアップデートを行いました！
 categories:
 - NEWS
-date: 2023-02-12 00:25:00 +09:00
+date: 2023-05-11 14:35:00 +09:00
 author: takumi0213
 
 ---
