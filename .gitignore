@@ -5,3 +5,5 @@ _site
 vendor
 README.md
 CNAME
+_config.yml
+_includes/header.html
