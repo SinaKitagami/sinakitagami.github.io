@@ -12,6 +12,8 @@ date: 2023-05-14 03:40:00 +0900
 
 施行日: 2023年5月21日
 
+---
+
 ## I.プライバシー
 
 本サービスの運営(以下、運営)及び本サービスの管理者(以下、管理者)は利用者のプライバシー情報を、<a href="{{site.url}}/legal/new-bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a>に従って適切に管理します。
@@ -20,7 +22,7 @@ date: 2023-05-14 03:40:00 +0900
 
 本サービスの利用者による以下のような行為を禁止します。
 
-- Discordの各種規約に違反する行為
+- <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反する行為
 - 本Botのプライバシーポリシーで定める収集するデータの開示・削除請求の際に虚偽の申告をする行為
 - 上記の行為を援助または助長する行為
 - その他、運営が不適切と判断する行為
