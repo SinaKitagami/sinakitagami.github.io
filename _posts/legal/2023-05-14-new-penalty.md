@@ -4,7 +4,9 @@ title: ペナルティポリシー(new)
 categories:
 - legal
 ---
-<u>本ポリシーは<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずる個別利用条件として解釈されます。</u>
+<u>本ポリシーは<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>と同等の効力をもつポリシーとして解釈されます。</u>
+
+(個別利用条件ではありません)
 
 掲載日(最終更新日): 2023年5月14日
 
