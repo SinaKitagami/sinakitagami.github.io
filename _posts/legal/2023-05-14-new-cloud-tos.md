@@ -3,8 +3,6 @@ layout: post
 title: クラウド利用規約(new)
 categories:
 - legal
-date: 2023-05-14 04:45:00 +0900
-
 ---
 <u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずる思惟奈ちゃんクラウド(以下、本サービス)の個別利用条件として解釈されます。</u>
 

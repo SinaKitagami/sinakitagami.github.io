@@ -3,8 +3,6 @@ layout: post
 title: Botプライバシーポリシー(new)
 categories:
 - legal
-date: 2023-05-14 05:05:00 +0900
-
 ---
 <u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずる個別利用条件として解釈されます。</u>
 

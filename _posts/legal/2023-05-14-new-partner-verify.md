@@ -3,8 +3,6 @@ layout: post
 title: パートナー・認証ポリシー(new)
 categories:
 - legal
-date: 2023-05-14 08:00:00 +0900
-
 ---
 <u>本ポリシーは<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずる個別利用条件として解釈されます。</u>
 
