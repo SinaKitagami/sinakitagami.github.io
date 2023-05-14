@@ -23,7 +23,7 @@ date: 2023より
 ### 全体規約・ポリシー
 
 <a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a><br>
-<a href="{{site.url}}/legal/new-penalty class="a-orange">ペナルティポリシー</a>
+<a href="{{site.url}}/legal/new-penalty" class="a-orange">ペナルティポリシー</a>
 
 ### Bot関連
 
