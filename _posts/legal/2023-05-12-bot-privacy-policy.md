@@ -6,6 +6,8 @@ categories:
 date: 2023-05-12 12:20:00 +0900
 
 ---
+[改訂版はこちらから]({{site.url}}/legal/new-bot-privacy-policy)
+
 掲載日(最終更新日): 2023年5月12日
 
 発効日: 2023年5月12日
