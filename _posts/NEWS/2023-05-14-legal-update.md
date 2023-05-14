@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Legalのアップデートを行います。
+title: Legalのアップデートを行います
 categories:
 - NEWS
 date: 2023-05-14 19:20:00 +09:00
