@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Botプライバシーポリシー(new)
+title: Botプライバシーポリシー
 categories:
 - legal
 ---
