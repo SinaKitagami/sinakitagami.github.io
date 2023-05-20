@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 規約・ポリシー一覧
+title: "規約・ポリシー 一覧"
 categories:
 - legal
 tag:
