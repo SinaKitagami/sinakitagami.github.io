@@ -1,6 +1,6 @@
 ---
 layout: post
-title: パートナー・認証ポリシー(new)
+title: パートナー・認証ポリシー
 categories:
 - legal
 ---
