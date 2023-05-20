@@ -4,7 +4,7 @@ title: Bot利用規約(new)
 categories:
 - legal
 ---
-<u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずるDiscord Bot(以下、本サービス)の個別利用条件として解釈されます。</u>
+<u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/new-tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずるDiscord Bot(以下、「本サービス」といいます。)の個別利用条件として解釈されます。</u>
 
 掲載日(最終更新日): 2023年5月14日
 
@@ -14,7 +14,7 @@ categories:
 
 ## I.プライバシー
 
-本サービスの運営(以下、運営)及び本サービスの管理者(以下、管理者)は利用者のプライバシー情報を、<a href="{{site.url}}/legal/new-bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a>に従って適切に管理します。
+本サービスの運営(以下、「運営」といいます。)及び本サービスの管理者(以下、「管理者」といいます。)は利用者のプライバシー情報を、<a href="{{site.url}}/legal/new-bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a>に従って適切に管理します。
 
 ## II. 禁止事項
 
