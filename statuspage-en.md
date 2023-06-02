@@ -36,6 +36,6 @@ Level classification is determined at the time of a basic failure and will not b
 
 ## IV. Links
 
-<a href="{{site.url}}" class="a-orange">Official Website/a><br>
+<a href="{{site.url}}" class="a-orange">Official Website</a><br>
 <a href="{{site.url}}/discord" class="a-orange">Support Server (Discord)</a><br>
 <a href="{{site.url}}/contact" class="a-orange">Contact</a>
