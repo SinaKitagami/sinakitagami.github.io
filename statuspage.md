@@ -38,6 +38,6 @@ author: TeamSina
 
 ## Ⅳ. リンク集
 
-<a href="{{site.url}}" class="a-orange">公式サイト/a><br>
+<a href="{{site.url}}" class="a-orange">公式サイト</a><br>
 <a href="{{site.url}}/discord" class="a-orange">サポートサーバー(Discord)</a><br>
 <a href="{{site.url}}/contact" class="a-orange">お問い合わせ</a>
