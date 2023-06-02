@@ -4,7 +4,7 @@ title: "Status page description"
 author: TeamSina
 
 --- 
-<a href="{{site.url}}/statuspage" class="a-orange">Click here for the Japanese version</a><br>
+<a href="{{site.url}}/statuspage" class="a-orange">日本語版はこちらから</a><br>
 ## I. What is a Status Page?
 
 This is the page where you can check the current operation status of services related to Sina-chan.
