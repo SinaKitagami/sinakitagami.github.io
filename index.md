@@ -72,3 +72,10 @@ TeamSinaには、様々な特技を持つ<br class="java">人材がいます。�
 <br>
 <a class="btn-blue" href="https://discord.gg/UVMnARV"><i class="fas fa-angle-double-right"></i>Discordから</a>
 </center>
+<!-- 
+      _/_/_/       _/                                             _/_/_/       _/
+   _/                      _/_/_/        _/_/_/                _/             _/_/_/        _/_/_/      _/_/_/
+    _/_/         _/       _/    _/    _/    _/                _/             _/    _/    _/    _/      _/    _/
+       _/       _/       _/    _/    _/    _/                _/             _/    _/    _/    _/      _/    _/
+_/_/_/         _/       _/    _/      _/_/_/                  _/_/_/       _/    _/      _/_/_/      _/    _/
+-->
