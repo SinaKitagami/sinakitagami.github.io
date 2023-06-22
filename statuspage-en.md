@@ -25,10 +25,10 @@ You can also receive the same notifications on the <a href="{{site.url}}/discord
 
 The status page is classified into the following levels based on the severity of the failure and the scope of the impact.
 
-- None (Alert Level 1): Mainly used for notifications, etc.
-- Minor (Alert Level 2): Used for minor failures (performance degradation, etc.)
-- Major (Alert Level 3 or 4): Used for medium-scale failures (e.g., system down)
-- Critical (Alert Level 5) Used for major failures
+- None (Fault Level 1): Mainly used for notifications, etc.
+- Minor (Fault Level 2): Used for minor failures (performance degradation, etc.)
+- Major (Fault Level 3 or 4): Used for medium-scale failures (e.g., system down)
+- Critical (Fault Level 5) Used for major failures
 
 This level will be posted at the time of all failure information announcements.
 
