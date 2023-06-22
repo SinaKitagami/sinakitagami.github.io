@@ -27,10 +27,10 @@
   w-s: Webサイト
 
 - name: takumi0213
-  skill: インフラ整備・文書作成・法務(ちょっとだけ)
+  skill: インフラ整備・サーバー運用・文書作成
   command: なし
-  permission: 法務・インフラ基盤構築
-  introduction: 思惟奈ちゃんのリーダーにとある件(利用規約絡み)を頼まれそこから法務等をやってます。<br>よろしくお願いします！
+  permission: サブオーナー・インフラエンジニア
+  introduction: サブオーナーとして思椎奈ちゃんのほぼ全てのサービス運用、利用規約とかのルール作成、ユーザーサポートなどをやってます。<br>よろしくお願いします！
   img: takumi0213.png
   website: none
   website2: none
