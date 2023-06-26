@@ -12,7 +12,15 @@ date: 2023より
 ### 全体規約・ポリシー
 
 <a href="{{site.url}}/legal/tos" class="a-orange">思惟奈ちゃん利用規約</a><br>
-<a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a>
+<details><summary>Release Note</summary>
+
+Version 1.0(2023/5/14) 初期リリース
+</details><br>
+<a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a><br>
+<details><summary>Release Note</summary>
+
+Version 1.0(2023/5/14) 初期リリース
+</details>
 
 ### Bot関連
 
