@@ -15,7 +15,8 @@ date: 2023より
 <details><summary>Release Note</summary>
 
 Version 1.0(2023/5/14) 初期リリース
-</details><br>
+</details>
+
 <a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a><br>
 <details><summary>Release Note</summary>
 
