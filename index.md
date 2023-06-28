@@ -2,7 +2,19 @@
 layout: default
 title: "思惟奈ちゃん(sina-chan)"
 ---
+<h2 class="top-black">大切なおしらせ</h2>
+<br>
+{% for post in site.categories.NEWS limit:3 %}
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{% endfor %}
+<br>
 <center>
+<h2 class="top-black">大切なおしらせ2</h2>
+<br>
+{% for post in site.categories.NEWS limit:3 %}
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{% endfor %}
+<br>
 <div class="thumbnail">
     <section class="top-image"></section>
     <a class="btn-big" href="https://discordapp.com/api/oauth2/authorize?client_id=462885760043843584&permissions=1043721302&scope=bot">
@@ -11,7 +23,12 @@ title: "思惟奈ちゃん(sina-chan)"
 </div>
 
 <br>
-
+<h2 class="top-black">大切なおしらせ3</h2>
+<br>
+{% for post in site.categories.NEWS limit:3 %}
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{% endfor %}
+<br>
 <h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
 <br>
 思惟奈ちゃん(sina-chan)は、様々な機能を<br class="java">兼ね備えている、Discordbotです。
