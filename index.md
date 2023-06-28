@@ -2,14 +2,8 @@
 layout: default
 title: "思惟奈ちゃん(sina-chan)"
 ---
-<h2 class="top-black">大切なおしらせ</h2>
-<br>
-{% for post in site.categories.NEWS limit:3 %}
-{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
-{% endfor %}
-<br>
 <center>
-<h2 class="top-black">大切なおしらせ2</h2>
+<h2 class="btn-blue">大切なおしらせ2</h2>
 <br>
 {% for post in site.categories.NEWS limit:3 %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
