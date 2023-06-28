@@ -12,6 +12,17 @@ title: "思惟奈ちゃん(sina-chan)"
 
 <br>
 
+<!-- 大切なお知らせ使用時のみ下のコメントアウトを削除すること -->
+
+<!-- 
+<h2 class="top-black">大切なお知らせ</h2>
+<br>
+{% for post in site.categories.important-news limit:5 %}
+{{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a><br>
+{% endfor %}
+<br>
+-->
+
 <h2 class="main-title">思惟奈ちゃん(sina-chan)について</h2>
 <br>
 思惟奈ちゃん(sina-chan)は、様々な機能を<br class="java">兼ね備えている、Discordbotです。
