@@ -2,6 +2,8 @@
 layout: post
 title: 規約・ポリシーのアップデートに関して
 date: 2023-06-28 19:20:00 +09:00
+categories:
+- important-news
 author: takumi0213
 
 ---
