@@ -1,6 +1,8 @@
 ---
 layout: post
 title: グローバルチャット利用規約
+categories:
+- legal
 ---
 <u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/tos" class="a-orange">思惟奈ちゃん利用規約</a>に準ずる個別利用条件として解釈されます。</u>
 
