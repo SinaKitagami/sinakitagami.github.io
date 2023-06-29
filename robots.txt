@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow: /pdf/
+
+Sitemap:http://sina-chan.com/sitemap.xml
