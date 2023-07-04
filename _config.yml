@@ -12,5 +12,6 @@ defaults:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 markdown: kramdown
 lang: ja-jp
