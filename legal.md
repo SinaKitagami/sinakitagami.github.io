@@ -36,8 +36,7 @@ date: 2023より
 現行バージョン: 1.0.1
 
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
-現行バージョン: 1.0<br>
-改定版(Version 1.1)は<a href="{{site.url}}/legal/new-gchat-tos" class="a-orange">こちら</a>から
+現行バージョン: 1.1<br>
 
 <a href="{{site.url}}/legal/partner-verify" class="a-orange">パートナー・認証ポリシー</a><br>
 現行バージョン: 1.0
