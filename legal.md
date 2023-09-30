@@ -18,7 +18,7 @@ date: 2023より
 ### 全体規約・ポリシー
 
 <a href="{{site.url}}/legal/tos" class="a-orange">思惟奈ちゃん利用規約</a><br>
-現行バージョン: 1.0.1
+現行バージョン: 1.0.2
 
 <a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a><br>
 現行バージョン: 1.0
@@ -29,7 +29,7 @@ date: 2023より
 現行バージョン: 1.0.1
 
 <a href="{{site.url}}/legal/bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a><br>
-現行バージョン: 1.0.1
+現行バージョン: 1.0.2
 
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
 現行バージョン: 1.1<br>
@@ -38,9 +38,6 @@ date: 2023より
 現行バージョン: 1.0
 
 ### その他
-
-<a href="{{site.url}}/legal/cloud-tos" class="a-orange">クラウド利用規約</a><br>
-現行バージョン: 1.0.1
 
 <a href="{{site.url}}/legal/tradelaw" class="a-orange">特定商取引法に基づく表記</a>
 現行バージョン: 1.0.1
