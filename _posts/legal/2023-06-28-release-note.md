@@ -21,7 +21,7 @@ categories:
 
 <details><summary>思椎奈ちゃん利用規約</summary>
 
-**Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更**
+<b>Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更</b>
 
 Version 1.0.1 (2023/6/28) 表現の一部修正、リンク切れの修正
 
@@ -30,21 +30,21 @@ Version 1.0 (2023/5/14) 初期リリース
 
 <details><summary>ペナルティポリシー</summary>
 
-**Version 1.0 (2023/5/14) 初期リリース**
+<b>Version 1.0 (2023/5/14) 初期リリース</b>
 </details>
 
 ### Bot関連
 
 <details><summary>Bot利用規約</summary>
 
-**Version 1.0.1 (2023/6/28) リンク切れの修正**
+<b>Version 1.0.1 (2023/6/28) リンク切れの修正</b>
 
 Version 1.0 (2023/5/14) 初期リリース
 </details>
 
 <details><summary>Botプライバシーポリシー</summary>
 
-**Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更**
+<b>Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更</b>
 
 Version 1.0.1 (2023/6/28) リンク切れの修正
 
@@ -53,21 +53,21 @@ Version 1.0 (2023/5/14) 初期リリース
 
 <details><summary>グローバルチャット利用規約</summary>
 
-**Version 1.1 (2023/6/28) 禁止事項の追加、表現の一部修正**
+<b>Version 1.1 (2023/6/28) 禁止事項の追加、表現の一部修正</b>
 
 Version 1.0 (2023/5/14) 初期リリース
 </details>
 
 <details><summary>パートナー・認証ポリシー</summary>
 
-**Version 1.0 (2023/5/14) 初期リリース**
+<b>Version 1.0 (2023/5/14) 初期リリース</b>
 </details>
 
 ### その他
 
 <details><summary>特定商取引法に基づく表記</summary>
 
-**Version 1.0.1 (2023/6/28) ページ設定の変更(内容は一切変更ありません)**
+<b>Version 1.0.1 (2023/6/28) ページ設定の変更(内容は一切変更ありません)</b>
 
 Version 1.0 (2023/5/14) 初期リリース
 </details>
