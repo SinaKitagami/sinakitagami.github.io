@@ -4,7 +4,7 @@ title: Botプライバシーポリシー
 categories:
 - legal
 ---
-<u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>に準ずる個別利用条件として解釈されます。</u>
+<u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>に準ずる個別利用規約として解釈されます。</u>
 
 掲載日(最終更新日): 2023年10月1日
 
