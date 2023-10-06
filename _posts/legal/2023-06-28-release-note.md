@@ -30,7 +30,12 @@ Version 1.0 (2023/5/14) 初期リリース
 <details><summary>ペナルティポリシー</summary>
 
 <b>Version 1.1 (2023/10/14) ペナルティ種類の追加(注意・警告の間に新ペナルティを追加)・一時利用停止の期間見直し・規約名称変更に伴う修正</b><br>
-Version 1.0 (2023/5/14) 初期リリース<
+Version 1.0 (2023/5/14) 初期リリース
+</details>
+
+<details><summary>利用ガイドライン</summary>
+
+<b>Version 1.0 (2023/10/14) 初期リリース</b>
 </details>
 
 ### Bot関連
