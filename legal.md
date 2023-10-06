@@ -11,6 +11,7 @@ date: 2023より
 ---
 
 ### Release Note
+
 規約・ポリシーの更新情報は<a href="{{site.url}}/legal/release-note" class="a-orange">こちら</a>から
 
 ---
