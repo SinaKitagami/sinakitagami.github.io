@@ -23,7 +23,25 @@ author: TeamSina
 
 また、<a href="{{site.url}}/discord" class="a-orange">サポートサーバー(Discord)</a>でも同じように通知を受け取ることが出来ます。
 
-## Ⅲ. 障害レベル
+## Ⅲ. 各インシデント(障害・メンテナンス)の進捗
+
+本ステータスベージでは各インシデントの進捗は以下の通りで進捗状況を更新しております。
+
+<u>障害</u>
+
+1. Investigating(Under Investigating)  原因調査中
+2. Identified  原因調査が終了・修正作業中
+3. Monitoring  修正作業完了・正常動作のモニタリング
+4. Resolved  モニタリング(通常時は10分程度)完了・障害解消
+
+<u>メンテナンス</u>
+
+1. Scheduled  メンテナンススケジュール公開時の初期状態
+2. In Progress  メンテナンス開始時
+3. Verifying  メンテナンスでの作業完了・問題が発生していないかの検証フェーズ
+4. Completed  検証フェーズ(通常時は10分程度)完了・メンテナンス終了
+
+## Ⅳ. 障害レベル
 
 ステータスページでは障害の重要度や影響範囲などから以下のレベル分けを行っております。
 
@@ -36,7 +54,7 @@ author: TeamSina
 
 レベル分けは基本障害発生時に決定し、変更することはありませんが、調査によりレベルの引き上げを実施する場合があります。
 
-## Ⅳ. リンク集
+## Ⅴ. リンク集
 
 <a href="{{site.url}}" class="a-orange">公式サイト</a><br>
 <a href="{{site.url}}/discord" class="a-orange">サポートサーバー(Discord)</a><br>
