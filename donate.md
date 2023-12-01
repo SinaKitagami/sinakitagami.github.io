@@ -23,7 +23,7 @@ author: TeamSina
 - ~~プレミアムプラン~~(**__現在新規受付を停止しております__**)
   - ~~<a href="https://buy.stripe.com/28o8xK1S04fucnu147" class="a-orange">Tier3</a> ¥~~
   - ~~<a href="https://buy.stripe.com/28o29mdAI3bqbjqcMO" class="a-orange">Tier2</a> ¥~~
-  - <~~a href="https://buy.stripe.com/eVa3dqgMU3bqdry289" class="a-orange">Tier1</a> ¥~~
+  - ~~<a href="https://buy.stripe.com/eVa3dqgMU3bqdry289" class="a-orange">Tier1</a> ¥~~
 - 寄付
   - <a href="https://donate.stripe.com/fZe6pC9kscM0gDK144" class="a-orange">寄付はこちらから</a>
 ## V. 特定商取引法に基づく表記
