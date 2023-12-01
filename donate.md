@@ -27,5 +27,5 @@ author: TeamSina
 - 寄付
   - <a href="https://donate.stripe.com/fZe6pC9kscM0gDK144" class="a-orange">寄付はこちらから</a>
 ## V. 特定商取引法に基づく表記
-以下リンクよりご確認ください。**__必ず購入前に一度ご確認ください。__**
+以下リンクよりご確認ください。**必ず購入前に一度ご確認ください。**
 <a href="{{ site.url }}/legal/tradelaw" class="a-orange">特定商取引法に基づく表記</a>
