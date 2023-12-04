@@ -10,7 +10,7 @@ author: takumi0213
 
 該当する方は下記リンクよりフォームの入力・送信をお願い致します。
 
-<a href="https://www.cve.org/CVERecord?id=CVE-2022-40982" class="a-orange">CVE-2022-40982</a>
+<a href="https://forms.gle/cech6KBTZRVUhdsh6" class="a-orange">フォームへの回答はこちらから</a>
 
 なお、本グループへの参加にはGoogleアカウントが必要です。
 
