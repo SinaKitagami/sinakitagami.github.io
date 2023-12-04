@@ -6,7 +6,7 @@ categories:
 ---
 本ガイドラインは<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>・<a href="{{site.url}}/legal/bot-tos" class="a-orange">Bot利用規約</a>・<a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>の簡易版です。規約の違反時等は正規版を参照するため、あくまで参考程度に使用してください。
 
-掲載日(最終更新日): 2023年10月1日
+掲載日(最終更新日): 2023年12月4日
 
 ---
 
