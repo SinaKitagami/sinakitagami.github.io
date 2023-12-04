@@ -49,5 +49,5 @@ date: 2023より
 
 ### その他
 
-<a href="{{site.url}}/legal/tradelaw" class="a-orange">特定商取引法に基づく表記</a>
-現行バージョン: 1.0.1
+<a href="{{site.url}}/legal/tradelaw" class="a-orange">特定商取引法に基づく表記</a><br>
+現行バージョン: 1.1
