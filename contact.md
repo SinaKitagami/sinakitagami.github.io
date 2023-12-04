@@ -11,4 +11,4 @@ title: "お問い合わせ"
 また、すぐに返信が必要な場合は、<a href="https://discord.gg/UVMnARV" class="a-orange">サポートサーバー</a>まで<br class="java">ご連絡ください。<br>また、法的措置が必要な場合や緊急性がある場合は、以下のアドレスにご連絡ください。<br>
 support☆sina-chan.com(☆を@に変えてご利用ください)
 <br>
-<iframe width="640px" height="480px" src="https://forms.office.com/r/VfDN2kCpxE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6tT9de0nYX-UzE0BddZv5OjOv7gVhzfOJ26m6cPZ1I__lLw/viewform?embedded=true" width="725" height="763" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
