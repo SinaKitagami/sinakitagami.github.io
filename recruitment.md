@@ -29,16 +29,22 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 
 <details><summary>プログラミングチーム(Bot)</summary>
 
-#### 業務内容
-- discord.pyを使ったプログラミング(新機能開発・不具合修正)
-- コードレビュー
-#### 求める人材
-- Pythonを使ったプログラミングができる方
-#### エントリー資格
-- Discordアカウントを有していること
-- GitHubアカウントを作成できるまたは有していること
-- discord.py(Python)の開発環境をご用意いただけること
-- PCの操作やGit操作等のプログラミングにおける基本的知識を理解していること
+<h4>業務内容</h4><br>
+<ul>
+  <li>discord.pyを使ったプログラミング(新機能開発・不具合修正)</li>
+  <li>コードレビュー</li>
+</ul><br>
+<h4>求める人材</h4><br>
+<ul>
+  <li>Pythonを使ったプログラミングができる方</li>
+</ul><br>
+<h4>エントリー資格</h4><br>
+<ul>
+  <li>Discordアカウントを有していること</li>
+  <li>GitHubアカウントを作成できるまたは有していること</li>
+  <li>discord.py(Python)の開発環境をご用意いただけること</li>
+  <li>PCの操作やGit操作等のプログラミングにおける基本的知識を理解していること</li>
+</ul>
 </details>
 
 <details><summary>Webチーム</summary>
