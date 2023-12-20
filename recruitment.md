@@ -17,7 +17,7 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 
 皆さんのご応募をチームメンバー一同お待ちしております！
 
-<a class="btn-blue" href="https://forms.gle/8USPhcFE1gvRHybK6">エントリーフォームはこちらから</a>
+<a class="btn-blue" href="https://forms.gle/C5A7x2gwttquHsPX6">エントリーフォームはこちらから</a>
 
 <h3>現在募集中の求人</h3>
 <!--
