@@ -19,7 +19,7 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 
 <a class="btn-blue" href="https://forms.gle/C5A7x2gwttquHsPX6">エントリーフォームはこちらから</a>
 
-<h3>現在募集中の求人</h3>
+<h3><u>現在募集中の求人</u></h3>
 <!--
 {% for post in site.categories.recruitment %}
 {{ post.date | date:"%Y/%m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>
@@ -27,18 +27,18 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 <br>
 -->
 
-<details><summary>プログラミングチーム(Bot)</summary>
+<details><summary><b>プログラミングチーム(Bot)</b></summary>
 
-<h4>業務内容</h4><br>
+<h4>業務内容</h4>
 <ul>
   <li>discord.pyを使ったプログラミング(新機能開発・不具合修正)</li>
   <li>コードレビュー</li>
-</ul><br>
-<h4>求める人材</h4><br>
+</ul>
+<h4>求める人材</h4>
 <ul>
   <li>Pythonを使ったプログラミングができる方</li>
-</ul><br>
-<h4>エントリー資格</h4><br>
+</ul>
+<h4>エントリー資格</h4>
 <ul>
   <li>Discordアカウントを有していること</li>
   <li>GitHubアカウントを作成できるまたは有していること</li>
@@ -47,47 +47,69 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 </ul>
 </details>
 
-<details><summary>Webチーム</summary>
+<details><summary><b>Webチーム</b></summary>
 
-#### 業務内容
-- 新サイト構築に向けたプログラミング等の作業(Next.js)
-#### 求める人材
-- Next.jsの開発経験がある方
-- Webサイトの開発経験がある方
-#### エントリー資格
-- Discordアカウントを有していること
-- GitHubアカウントを作成できるまたは有していること
-- Next.jsの開発環境をご用意いただけること
-- PCの基本操作を理解していること
+<h4>業務内容</h4>
+<ul>
+  <li>新サイト構築に向けたプログラミング等の作業(Next.js)</li>
+</ul>
+<h4>求める人材</h4>
+<ul>
+  <li>Next.jsの開発経験がある方</li>
+  <li>Webサイトの開発経験がある方</li>
+</ul>
+<h4>エントリー資格</h4>
+<ul>
+  <li>Discordアカウントを有していること</li>
+  <li>GitHubアカウントを作成できるまたは有していること</li>
+  <li>Next.jsの開発環境をご用意いただけること</li>
+  <li>PCの基本操作を理解していること</li>
+</ul>
 </details>
 
-<details><summary>イラストチーム</summary>
+<details><summary><b>イラストチーム</b></summary>
 
-#### 業務内容
-- 依頼したイラストの作成
-#### 求める人材
-- イラスト作成の経験がある方(どんなものでも構いません)
-#### エントリー資格
-- Discordアカウントを有していること
+<h4>業務内容</h4>
+<ul>
+  <li>依頼したイラストの作成</li>
+</ul>
+<h4>求める人材</h4>
+<ul>
+  <li>イラスト作成の経験がある方(どんなものでも構いません)</li>
+</ul>
+<h4>エントリー資格</h4>
+<ul>
+  <li>Discordアカウントを有していること</li>
+</ul>
 </details>
 
-<details><summary>ユーザーサポート</summary>
+<details><summary><b>ユーザーサポート</b></summary>
 
-#### 業務内容
-- 利用者のサポート
-#### エントリー資格
-- Discordアカウントを有していること
+<h4>業務内容</h4>
+<ul>
+  <li>利用者のサポート</li>
+</ul>
+<h4>エントリー資格</h4>
+<ul>
+  <li>Discordアカウントを有していること</li>
+</ul>
 </details>
 
-<details><summary>プログラミングチーム(C#)</summary>
+<details><summary><b>プログラミングチーム(C#)</b></summary>
 
-#### 業務内容
-- c#を使ってWindowsアプリの開発
-#### 求める人材
-- C#を使ったプログラミングができる方
-#### エントリー資格
-- Discordアカウントを有していること
-- GitHubアカウントを作成できるまたは有していること
-- C#の開発環境をご用意いただけること
-- PCの操作やGit操作等のプログラミングにおける基本的知識を理解していること
+<h4>業務内容</h4>
+<ul>
+  <li>C#を使ってWindowsアプリの開発</li>
+</ul>
+<h4>求める人材</h4>
+<ul>
+  <li>C#を使ったプログラミングができる方</li>
+</ul>
+<h4>エントリー資格</h4>
+<ul>
+  <li>Discordアカウントを有していること</li>
+  <li>GitHubアカウントを作成できるまたは有していること</li>
+  <li>C#の開発環境をご用意いただけること</li>
+  <li>PCの操作やGit操作等のプログラミングにおける基本的知識を理解していること</li>
+</ul>
 </details>
