@@ -80,6 +80,7 @@ Botをご利用いただく場合の追加禁止事項
 4. Discordのサーバー招待・宣伝(<a href="{{site.url}}/discord" class="a-orange">思惟奈ちゃんサポートサーバー</a>を除く)、その他自己を宣伝するコンテンツ(運営に許可されたもの・運営が合理的な理由に基づき送信する場合を除く)
 5. <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反する行為
 6. 1つのチャンネルに複数のグローバルチャットを接続する行為(不具合を引き起こす場合があるため)
+7. <span style="color:#ff0000;font-weight:bold;">接続操作後、すぐに切断操作を行うこと</span>
 
 ## VI. 利用者のデータ・責任・プライバシー
 
@@ -101,6 +102,8 @@ Botをご利用いただく場合の追加禁止事項
 本規約に違反した場合、利用者に対して違反の程度に基づくペナルティを科すことがあります。
 
 詳細につきましては。<a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a>をご確認ください。
+
+<span style="color:#ff0000;font-weight:bold;">違反内容によっては違反行為が行われたサーバーのオーナーに対しても何らかのペナルティを科す場合があります。</span>
 
 なお、グローバルチャットにおける規約違反はペナルティポリシーに沿ったペナルティの他に、「グローバルチャット利用禁止措置」を科すことがあります。
 
