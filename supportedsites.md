@@ -1,143 +1,50 @@
-# Supported sites
+---
+layout: post
+title: "音楽機能 対応サービス一覧"
+author: TeamSina
 
- - **17live**
- - **17live:clip**
- - **AbemaTV**
- - **AbemaTVTitle**
- - **AdobeConnect**
- - **adobetv**
- - **adobetv:channel**
- - **adobetv:embed**
- - **adobetv:show**
- - **adobetv:video**
- - **AmazonMiniTV**
- - **amazonminitv:season**: Amazon MiniTV Season, "minitv:season:" prefix
- - **amazonminitv:series**: Amazon MiniTV Series, "minitv:series:" prefix
- - **AmazonReviews**
- - **AmazonStore**
- - **AppleConnect**
- - **AppleDaily**: 臺灣蘋果日報
- - **ApplePodcasts**
- - **appletrailers**
- - **appletrailers:section**
- - **archive.org**: archive.org video and audio
- - **cu.ntv.co.jp**: Nippon Television Network
- - **Disney**
- - **Dropbox**
- - **eplus:inbound**: e+ (イープラス) overseas
- - **FujiTVFODPlus7**
- - **google:podcasts**
- - **google:​podcasts:feed**
- - **GoogleDrive**
- - **GoogleDrive:Folder**
- - **Instagram**: [*instagram*](## "netrc machine")
- - **instagram:story**: [*instagram*](## "netrc machine")
- - **instagram:tag**: [*instagram*](## "netrc machine") Instagram hashtag search URLs
- - **instagram:user**: [*instagram*](## "netrc machine") Instagram user profile
- - **InstagramIOS**: IOS instagram:// URL
- - **MicrosoftEmbed**
- - **microsoftstream**: Microsoft Stream
- - **mildom**: Record ongoing live by specific user in Mildom
- - **mildom:clip**: Clip in Mildom
- - **mildom:​user:vod**: Download all VODs from specific user in Mildom
- - **mildom:vod**: VOD in Mildom
- - **mirrativ**
- - **mirrativ:user**
- - **mtvjapan**
- - **NhkForSchoolBangumi**
- - **NhkForSchoolProgramList**
- - **NhkForSchoolSubject**: Portal page for each school subjects, like Japanese (kokugo, 国語) or math (sansuu/suugaku or 算数・数学)
- - **NhkRadioNewsPage**
- - **NhkRadiru**: NHK らじる (Radiru/Rajiru)
- - **NhkRadiruLive**
- - **NhkVod**
- - **NhkVodProgram**
- - **niconico**: [*niconico*](## "netrc machine") ニコニコ動画
- - **niconico:history**: NicoNico user history or likes. Requires cookies.
- - **niconico:live**: ニコニコ生放送
- - **niconico:playlist**
- - **niconico:series**
- - **niconico:tag**: NicoNico video tag URLs
- - **NiconicoChannelPlus**: ニコニコチャンネルプラス
- - **NiconicoChannelPlus:​channel:lives**: ニコニコチャンネルプラス - チャンネル - ライブリスト. nicochannel.jp/channel/lives
- - **NiconicoChannelPlus:​channel:videos**: ニコニコチャンネルプラス - チャンネル - 動画リスト. nicochannel.jp/channel/videos
- - **NiconicoUser**
- - **nicovideo:search**: Nico video search; "nicosearch:" prefix
- - **nicovideo:​search:date**: Nico video search, newest first; "nicosearchdate:" prefix
- - **nicovideo:search_url**: Nico video search URLs
- - **Nintendo**
- - **openrec**
- - **openrec:capture**
- - **openrec:movie**
- - **Pokemon**
- - **PokemonWatch**
- - **RedBull**
- - **RedBullEmbed**
- - **RedBullTV**
- - **RedBullTVRrnContent**
- - **Reddit**
- - **safari**: [*safari*](## "netrc machine") safaribooksonline.com online video
- - **safari:api**: [*safari*](## "netrc machine")
- - **safari:course**: [*safari*](## "netrc machine") safaribooksonline.com online courses
- - **Sangiin**: 参議院インターネット審議中継 (archive)
- - **screen.yahoo:search**: Yahoo screen search; "yvsearch:" prefix
- - **ShugiinItvLive**: 衆議院インターネット審議中継
- - **ShugiinItvLiveRoom**: 衆議院インターネット審議中継 (中継)
- - **ShugiinItvVod**: 衆議院インターネット審議中継 (ビデオライブラリ)
- - **soundcloud**: [*soundcloud*](## "netrc machine")
- - **soundcloud:playlist**: [*soundcloud*](## "netrc machine")
- - **soundcloud:related**: [*soundcloud*](## "netrc machine")
- - **soundcloud:search**: [*soundcloud*](## "netrc machine") Soundcloud search; "scsearch:" prefix
- - **soundcloud:set**: [*soundcloud*](## "netrc machine")
- - **soundcloud:trackstation**: [*soundcloud*](## "netrc machine")
- - **soundcloud:user**: [*soundcloud*](## "netrc machine")
- - **soundcloud:​user:permalink**: [*soundcloud*](## "netrc machine")
- - **SoundcloudEmbed**
- - **spotify**: Spotify episodes (**Currently broken**)
- - **spotify:show**: Spotify shows (**Currently broken**)
- - **Steam**
- - **SteamCommunityBroadcast**
- - **TBS**
- - **TBSJPEpisode**
- - **TBSJPPlaylist**
- - **TBSJPProgram**
- - **TikTok**
- - **tiktok:effect**: (**Currently broken**)
- - **tiktok:live**
- - **tiktok:sound**: (**Currently broken**)
- - **tiktok:tag**: (**Currently broken**)
- - **tiktok:user**: (**Currently broken**)
- - **TwitCasting**
- - **TwitCastingLive**
- - **TwitCastingUser**
- - **twitch:clips**: [*twitch*](## "netrc machine")
- - **twitch:stream**: [*twitch*](## "netrc machine")
- - **twitch:vod**: [*twitch*](## "netrc machine")
- - **TwitchCollection**: [*twitch*](## "netrc machine")
- - **TwitchVideos**: [*twitch*](## "netrc machine")
- - **TwitchVideosClips**: [*twitch*](## "netrc machine")
- - **TwitchVideosCollections**: [*twitch*](## "netrc machine")
- - **twitter**: [*twitter*](## "netrc machine")
- - **twitter:amplify**: [*twitter*](## "netrc machine")
- - **twitter:broadcast**: [*twitter*](## "netrc machine")
- - **twitter:card**
- - **twitter:shortener**: [*twitter*](## "netrc machine")
- - **twitter:spaces**: [*twitter*](## "netrc machine")
- - **youtube**: YouTube
- - **youtube:clip**
- - **youtube:favorites**: YouTube liked videos; ":ytfav" keyword (requires cookies)
- - **youtube:history**: Youtube watch history; ":ythis" keyword (requires cookies)
- - **youtube:​music:search_url**: YouTube music search URLs with selectable sections, e.g. #songs
- - **youtube:notif**: YouTube notifications; ":ytnotif" keyword (requires cookies)
- - **youtube:playlist**: YouTube playlists
- - **youtube:recommended**: YouTube recommended videos; ":ytrec" keyword
- - **youtube:search**: YouTube search; "ytsearch:" prefix
- - **youtube:​search:date**: YouTube search, newest videos first; "ytsearchdate:" prefix
- - **youtube:search_url**: YouTube search URLs with sorting and filter support
- - **youtube:​shorts:pivot:audio**: YouTube Shorts audio pivot (Shorts using audio of a given video)
- - **youtube:subscriptions**: YouTube subscriptions feed; ":ytsubs" keyword (requires cookies)
- - **youtube:tab**: YouTube Tabs
- - **youtube:user**: YouTube user videos; "ytuser:" prefix
- - **youtube:watchlater**: Youtube watch later list; ":ytwatchlater" keyword (requires cookies)
- - **YoutubeLivestreamEmbed**: YouTube livestream embeds
- - **YoutubeYtBe**: youtu.be
+---
+
+以下のリストは「仕様上」動作が見込まれるサイトの一覧です。(日本で有名なものを抜粋して掲載しています。)
+
+以下のリストにあるからといって必ずしも動作するわけではありません。
+
+動作しないケースとしては以下の可能性が考えられます。
+
+- ログイン情報が必要なコンテンツ(有料コンテンツ等)
+- ダウンロードの過程で何らかのエラーが発生している
+
+動作しないサービスを見つけた場合はお手数をおかけしますが、<a href="{{site.url}}/discord" class="a-orange">サポートサーバー</a>よりご連絡いただきますようお願い申し上げます。
+
+- 17LIVE
+- AbemaTV
+- Appleポッドキャスト
+- Internet Archive(archive.org)
+- 日テレ無料(cu.ntv.co.jp)
+- Disney
+- Dropbox
+- FOD
+- Googleポッドキャスト
+- GoogleDrive
+- Instagram
+- Mildom
+- Mirrativ
+- NHK for School
+- NHKラジオ らじるらじる
+- NHKプラス
+- ニコニコ動画
+- ニコニコ生放送
+- OPENREC
+- Reddit
+- 参議院インターネット審議中継
+- 衆議院インターネット審議中継
+- SoundCloud
+- Spotify
+- Steam
+- TBS Free
+- TikTok
+- TwitCasting
+- TwitCastingLive
+- Twitch
+- X(旧Twitter)
+- YouTube(現在再生できません)
