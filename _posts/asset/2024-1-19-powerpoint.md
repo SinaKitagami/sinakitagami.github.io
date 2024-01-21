@@ -2,6 +2,8 @@
 layout: post
 title: "2024/1/19 PowerPoint"
 author: TeamSina
+categories:
+- asset
 
 ---
 
