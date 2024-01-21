@@ -7,4 +7,4 @@ categories:
 
 ---
 
-<object data="../pdf/2024_1_19_powerpoint.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../pdf/2024_1_19_powerpoint.pdf" width="1150" height="519" type='application/pdf'></object>
