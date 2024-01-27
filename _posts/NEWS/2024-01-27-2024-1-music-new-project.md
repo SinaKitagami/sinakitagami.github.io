@@ -4,7 +4,7 @@ title: 音楽機能 大規模リニューアルプロジェクトのお知らせ
 categories:
 - NEWS
 date: 2024-01-27 18:00:00 +09:00
-author: takumi0213
+author: takumi0213(Team Sina)
 ---
 いつも思惟奈ちゃんをご利用いただきありがとうございます。
 
