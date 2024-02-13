@@ -90,7 +90,7 @@ Botをご利用いただく場合の追加禁止事項
 1. NSFW(閲覧注意)コンテンツ
 2. 有害なコンテンツ(フィッシング詐欺等)
 3. Botコマンド
-4. <a href="{{site.url}}/discord" class="a-orange">思惟奈ちゃんサポートサーバー</a>を除くDiscordのサーバー招待・宣伝、その他自己を宣伝するコンテンツ(*1)
+4. <a href="{{site.url}}/discord" class="a-orange">思惟奈ちゃんサポートサーバー</a>を除くDiscordのサーバー招待・宣伝、その他自己を宣伝するコンテンツ(モデレーターが許可したものを除く)
 5. スパムコンテンツ(意味のない文字列の羅列等)
 6. <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反するコンテンツ
 7. 上記の行為を援助または助長するもの
