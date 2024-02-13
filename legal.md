@@ -25,7 +25,7 @@ date: 2023より
 現行バージョン: 1.1
 
 <a href="{{site.url}}/legal/use-guideline" class="a-orange">利用ガイドライン</a><br>
-現行バージョン: 1.0.1
+現行バージョン: 1.0.2
 
 ### Bot関連
 
