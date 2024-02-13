@@ -38,6 +38,9 @@ date: 2023より
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
 現行バージョン: 1.1.2
 
+<a href="{{site.url}}/legal/bmail-tos" class="a-orange">ボトルメール利用規約</a><br>
+現行バージョン: 1.0
+
 <a href="{{site.url}}/legal/partner-verify" class="a-orange">パートナー・認証ポリシー</a><br>
 現行バージョン: 1.0.1
 

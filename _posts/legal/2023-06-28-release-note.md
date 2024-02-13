@@ -66,6 +66,11 @@ categories:
 <s>Version 1.0 (2023/5/14) 初期リリース</s>
 </details>
 
+<details><summary>ボトルメール利用規約</summary>
+
+<b>Version 1.0 (2024/2/13) 初期リリース</b>
+</details>
+
 <details><summary>パートナー・認証ポリシー</summary>
 
 <b>Version 1.0.1 (2023/12/4) 規約名称変更に伴う修正</b><br>
