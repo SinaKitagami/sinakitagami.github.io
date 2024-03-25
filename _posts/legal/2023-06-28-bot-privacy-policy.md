@@ -80,4 +80,4 @@ categories:
 
 ### 2. 開示に関して
 
-上記データの開示に関しては個別での対応を行っております。ご希望の方は<a href="{{site.url}}/discord" class="a-orange">サポートサーバー</a>にご参加いただいたいた上でお問い合わせください。
+上記データの開示に関しては個別での対応を行っております。ご希望の方は<a href=["https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/1/create/17" class="a-orange">問い合わせフォーム</a>よりお問い合わせください。
