@@ -22,10 +22,10 @@ date: 2023より
 現行バージョン: 1.0.4
 
 <a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a><br>
-現行バージョン: 1.1
+現行バージョン: 1.2
 
 <a href="{{site.url}}/legal/use-guideline" class="a-orange">利用ガイドライン</a><br>
-現行バージョン: 1.0.2
+現行バージョン: 1.0.3
 
 ### Bot関連
 
@@ -33,7 +33,7 @@ date: 2023より
 現行バージョン: 1.0.2
 
 <a href="{{site.url}}/legal/bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a><br>
-現行バージョン: 1.0.3
+現行バージョン: 1.0.4
 
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
 現行バージョン: 1.1.2
@@ -42,7 +42,7 @@ date: 2023より
 現行バージョン: 1.0
 
 <a href="{{site.url}}/legal/partner-verify" class="a-orange">パートナー・認証ポリシー</a><br>
-現行バージョン: 1.0.1
+現行バージョン: 1.0.2
 
 ### その他
 

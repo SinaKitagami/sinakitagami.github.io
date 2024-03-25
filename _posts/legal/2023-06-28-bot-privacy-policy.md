@@ -6,9 +6,9 @@ categories:
 ---
 <u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>に準ずる個別利用規約として解釈されます。</u>
 
-掲載日(最終更新日): 2023年12月4日
+掲載日(最終更新日): 2024年3月25日
 
-施行日: 2023年12月4日
+施行日: 2024年3月25日
 
 ---
 
@@ -80,4 +80,4 @@ categories:
 
 ### 2. 開示に関して
 
-上記データの開示に関しては個別での対応を行っております。ご希望の方は<a href="{{site.url}}/discord" class="a-orange">サポートサーバー</a>にご参加いただいたいた上でお問い合わせください。
+上記データの開示に関しては個別での対応を行っております。ご希望の方は<a href=["https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/1/create/17" class="a-orange">問い合わせフォーム</a>よりお問い合わせください。
