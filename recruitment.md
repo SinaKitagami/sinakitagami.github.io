@@ -27,7 +27,7 @@ Team Sinaでは随時新しいチームメンバーを募集しています。
 <br>
 -->
 
-<details><summary><b>プログラミングチーム(Bot)</b></summary>
+<details><summary><b>プログラミングチーム(App(旧Bot))</b></summary>
 
 <h4>業務内容</h4>
 <ul>
