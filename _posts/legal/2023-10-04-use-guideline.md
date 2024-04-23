@@ -132,7 +132,7 @@ Appをご利用いただく場合の追加禁止事項
 
 ただし、以下のコンテンツはMITライセンスを遵守する場合に限り二次利用を許可します。
 
-- <a href="https://github.com/SinaKitagami/program-team/blob/master/LICENSE" class="a-orange">Discord Bot</a>、<a href="https://github.com/SinaKitagami/sinakitagami.github.io/blob/master/LICENSE" class="a-orange">公式サイト</a>のソースコード
+- <a href="https://github.com/SinaKitagami/program-team/blob/master/LICENSE" class="a-orange">Discord App(旧Bot)</a>、<a href="https://github.com/SinaKitagami/sinakitagami.github.io/blob/master/LICENSE" class="a-orange">公式サイト</a>のソースコード
 
 本規約は、本サービスにおけるいかなる権利、権原または権益、本サービス内の他者のコンテンツ、ロゴおよびその他の機能も利用者に譲与することはありません。
 
