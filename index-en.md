@@ -13,9 +13,9 @@ title: "思惟奈ちゃん(sina-chan)"
 <br>
 
 <h2 class="main-title">What is Sina-chan?</h2>
-Sina-chan(思惟奈ちゃん) is a discord bot that has a lot of features.
+Sina-chan(思惟奈ちゃん) is a discord app (former name of a bot) that has a lot of features.
 It has been added to more than 1000 servers.
-Why don't you invite this bot to your server?
+Why don't you invite this app (former name of a bot) to your server?
 <br>
 <br>
 <br>
