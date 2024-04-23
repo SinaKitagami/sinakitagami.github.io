@@ -27,12 +27,12 @@ date: 2023より
 <a href="{{site.url}}/legal/use-guideline" class="a-orange">利用ガイドライン</a><br>
 現行バージョン: 1.0.3
 
-### Bot関連
+### App(旧Bot)関連
 
-<a href="{{site.url}}/legal/bot-tos" class="a-orange">Bot利用規約</a><br>
+<a href="{{site.url}}/legal/app-tos" class="a-orange">App(旧Bot)利用規約</a><br>
 現行バージョン: 1.0.2
 
-<a href="{{site.url}}/legal/bot-privacy-policy" class="a-orange">Botプライバシーポリシー</a><br>
+<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">App(旧Bot)プライバシーポリシー</a><br>
 現行バージョン: 1.0.4
 
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
