@@ -30,14 +30,6 @@
     <script src="{{ "/assets/js/highlight.js" }}"></script>
     <script>hljs.initHighlightingOnLoad();</script>
     <script src="https://status.sina-chan.com/embed/script.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0VL6QFBYTY"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-0VL6QFBYTY');
-    </script>
     <script src="https://www.google.com/recaptcha/enterprise.js?render=6LeEPLYkAAAAAOvI3mUNkxS7CCC1nzgr9UWAfCbg"></script>
     <script>
       function onClick(e) {
@@ -61,6 +53,7 @@
     </script>
   </head>
   <body>
+    {% include gtag.html %}
     {% include notice.html %}
     {% include header.html %}
     <div class="content">
