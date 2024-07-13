@@ -119,11 +119,11 @@ categories:
 
 本要件に関しては、クリティカルな変更を除き、認証後に要件が変更となった場合でも、継続審査は行いません。
 
-## III. 申請方法
+## 申請方法
 
 申請は<a href="https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/15/create/59" class="a-orange">こちらのリンク</a>より受け付けております。
 
-## IV. お問い合わせ
+## お問い合わせ
 
 - 申請前<br><a href="https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/15/create/17" class="a-orange">こちらから</a>お送りください。
 - 申請中<br>認証リクエスト送信時に質問欄がありますのでそちらからお願いいたします。
