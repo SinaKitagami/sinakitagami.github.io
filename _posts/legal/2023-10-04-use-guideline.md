@@ -17,7 +17,7 @@ categories:
 - 「運営」 チーム☆思惟奈ちゃん
 - 「グローバルモデレーター」グローバルチャット上におけるモデレーター
 - 「管理者」 システム管理者(運営の一部メンバーのこと)
-- 「アプリ」<a href="{{site.url}}/discord-アプリ" class="a-orange">Discord App</a>
+- 「アプリ」<a href="{{site.url}}/discord-app" class="a-orange">Discord App</a>
 
 ## II. 規約の取り扱い
 
