@@ -4,9 +4,9 @@ title: 利用ガイドライン
 categories:
 - legal
 ---
-本ガイドラインは<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>・<a href="{{site.url}}/legal/app-tos" class="a-orange">App(旧Bot)利用規約</a>・<a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>の簡易版です。規約の違反時等は正規版を参照するため、あくまで参考程度に使用してください。
+本ガイドラインは<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>・<a href="{{site.url}}/legal/app-tos" class="a-orange">アプリ利用規約</a>・<a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>の簡易版です。規約の違反時等は正規版を参照するため、あくまで参考程度に使用してください。
 
-掲載日(最終更新日): 2024年4月23日
+掲載日(最終更新日): 2024年7月14日
 
 ---
 
@@ -17,7 +17,7 @@ categories:
 - 「運営」 チーム☆思惟奈ちゃん
 - 「グローバルモデレーター」グローバルチャット上におけるモデレーター
 - 「管理者」 システム管理者(運営の一部メンバーのこと)
-- 「App」<a href="{{site.url}}/discord-app" class="a-orange">Discord App(旧Bot)</a>
+- 「アプリ」<a href="{{site.url}}/discord-app" class="a-orange">Discord App</a>
 
 ## II. 規約の取り扱い
 
@@ -28,7 +28,7 @@ categories:
 
 本規約は運営が改定が必要と判断する場合に改定を行うことがあります。
 
-改定を実施する際は、<a href="{{site.url}}" class="a-orange">公式サイト</a>・<a href="{{site.url}}/discord" class="a-orange">Discord サポートサーバー</a>で通知を行います。
+改定を実施する際は、<a href="{{site.url}}" class="a-orange">公式サイト</a>・<a href="{{site.url}}/discord" class="a-orange">Discordサポートサーバー</a>で通知を行います。
 
 改定された規約は、通知から7日後に施行します。ただし、軽微な変更などの場合は、即時施行する場合があります。
 
@@ -62,10 +62,10 @@ categories:
 
 ---
 
-Appをご利用いただく場合の追加禁止事項
+アプリをご利用いただく場合の追加禁止事項
 
 1. <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反する行為
-2. Appのプライバシーポリシーで定める収集するデータの開示・削除請求の際に虚偽の申告をする行為
+2. アプリのプライバシーポリシーで定める収集するデータの開示・削除請求の際に虚偽の申告をする行為
 
 ---
 
@@ -75,7 +75,7 @@ Appをご利用いただく場合の追加禁止事項
 
 1. NSFW(閲覧注意)コンテンツを送信する行為
 2. フィッシング詐欺等の有害コンテンツを送信する行為
-3. Appコマンドを送信する行為
+3. アプリコマンドを送信する行為
 4. Discordのサーバー招待・宣伝(<a href="{{site.url}}/discord" class="a-orange">思惟奈ちゃんサポートサーバー</a>を除く)、その他自己を宣伝するコンテンツ(運営に許可されたもの・運営が合理的な理由に基づき送信する場合を除く)
 5. <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反する行為
 6. 1つのチャンネルに複数のグローバルチャットを接続する行為(不具合を引き起こす場合があるため)
@@ -88,7 +88,7 @@ Appをご利用いただく場合の追加禁止事項
 
 1. NSFW(閲覧注意)コンテンツ
 2. 有害なコンテンツ(フィッシング詐欺等)
-3. Appコマンド
+3. アプリコマンド
 4. <a href="{{site.url}}/discord" class="a-orange">思惟奈ちゃんサポートサーバー</a>を除くDiscordのサーバー招待・宣伝、その他自己を宣伝するコンテンツ(モデレーターが許可したものを除く)
 5. スパムコンテンツ(意味のない文字列の羅列等)
 6. <a href="https://discord.com/terms" class="a-orange">Discord利用規約</a>、<a href="https://discord.com/guidelines" class="a-orange">Discordコミュニティガイドライン</a>に違反するコンテンツ
@@ -108,7 +108,7 @@ Appをご利用いただく場合の追加禁止事項
 
 本サービスのご利用において、様々な行為やその結果に対する責任は原則として利用者の方の責任となり、運営は一切の責任を負いません。ただし、合理的な注意と技術を用いなかった、または合理的に予見しうる損失や損害によるものに関しては運営が責任を負う場合があります。
 
-なお、App(グローバルチャット含む)のプライバシーに関しては、<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">Appプライバシーポリシー</a>として公開しており、これに従った管理を適切に行っております。
+なお、アプリ(グローバルチャット含む)のプライバシーに関しては、<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">アプリプライバシーポリシー</a>として公開しており、これに従った管理を適切に行っております。
 
 ## VI. ペナルティ
 
@@ -132,7 +132,7 @@ Appをご利用いただく場合の追加禁止事項
 
 ただし、以下のコンテンツはMITライセンスを遵守する場合に限り二次利用を許可します。
 
-- <a href="https://github.com/SinaKitagami/program-team/blob/master/LICENSE" class="a-orange">Discord App(旧Bot)</a>、<a href="https://github.com/SinaKitagami/sinakitagami.github.io/blob/master/LICENSE" class="a-orange">公式サイト</a>のソースコード
+- <a href="https://github.com/SinaKitagami/program-team/blob/master/LICENSE" class="a-orange">Discord App</a>、<a href="https://github.com/SinaKitagami/sinakitagami.github.io/blob/master/LICENSE" class="a-orange">公式サイト</a>のソースコード
 
 本規約は、本サービスにおけるいかなる権利、権原または権益、本サービス内の他者のコンテンツ、ロゴおよびその他の機能も利用者に譲与することはありません。
 
