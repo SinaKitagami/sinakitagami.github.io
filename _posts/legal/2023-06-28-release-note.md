@@ -6,8 +6,8 @@ categories:
 ---
 ### インフォメーション
 
-- アップデートのお知らせ<br>ペナルティポリシー・利用ガイドライン・Botプライバシーポリシー・パートナー・認証ポリシーを2024年3月25日に更新しました。
-- Last Update: 2024/3/25
+- アップデートのお知らせ<br>パートナー・認証ポリシーを7月14日に更新しました。
+- Last Update: 2024/7/14
 
 ### Version表現に関して
 
@@ -21,7 +21,8 @@ categories:
 
 <details><summary>共通利用規約</summary>
 
-<b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.1.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.1 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.0.4 (2024/1/22) 禁止事項における表現の一部変更</s><br>
 <s>Version 1.0.3 (2023/12/4) 名称変更</s><br>
 <s>Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更</s><br>
@@ -38,7 +39,8 @@ categories:
 
 <details><summary>利用ガイドライン</summary>
 
-<b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.1.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.1 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.0.3 (2024/3/25) 表記揺れの修正</s><br>
 <s>Version 1.0.2 (2024/2/13) ボトルメール利用規約新設による内容追加</s><br>
 <s>Version 1.0.1 (2024/1/22) グローバルチャット利用規約変更による内容追加・共通利用規約の表現一部変更を適用</s><br>
@@ -46,19 +48,21 @@ categories:
 利用ガイドラインは複数の規約をまとめたものとなるためいかなるバージョンにおいても7日後施行の対象外とします
 </details>
 
-### App(旧Bot)関連
+### アプリ関連
 
-<details><summary>App(旧Bot)利用規約</summary>
+<details><summary>アプリ利用規約</summary>
 
-<b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.1.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.1 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.0.2 (2023/12/4) 規約名称変更に伴う修正</s><br>
 <s>Version 1.0.1 (2023/6/28) リンク切れの修正</s><br>
 <s>Version 1.0 (2023/5/14) 初期リリース</s>
 </details>
 
-<details><summary>App(旧Bot)プライバシーポリシー</summary>
+<details><summary>アプリプライバシーポリシー</summary>
 
-<b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.1.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.1 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.0.4 (2024/3/25) 開示のお問い合わせ先を変更</s><br>
 <s>Version 1.0.3 (2023/12/4) 規約名称変更に伴う修正</s><br>
 <s>Version 1.0.2 (2023/10/1) 内部アプリケーション変更による軽微な変更</s><br>
@@ -68,7 +72,8 @@ categories:
 
 <details><summary>グローバルチャット利用規約</summary>
 
-<b>Version 1.2 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.2.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.2 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.1.2 (2024/1/22) 特例措置に関する記載を追加</s><br>
 <s>Version 1.1.1 (2023/12/4) 規約名称変更に伴う修正</s><br>
 <s>Version 1.1 (2023/6/28) 禁止事項の追加、表現の一部修正</s><br>
@@ -77,12 +82,14 @@ categories:
 
 <details><summary>ボトルメール利用規約</summary>
 
-<b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
+<b>Version 1.1.1 (2024/7/14) 一部表記を変更</b><br>
+<s>Version 1.1 (2024/4/23) App表記へ変更</s><br>
 <s>Version 1.0 (2024/2/13) 初期リリース</s>
 </details>
 
 <details><summary>パートナー・認証ポリシー</summary>
 
+<b>Version 2.0 (2024/7/14) 認証済みアカウントに要件を追加・各種要件を見やすくなるようにレイアウトを調整・申請方式を変更</b><br>
 <b>Version 1.1 (2024/4/23) App表記へ変更</b><br>
 <s>Version 1.0.2 (2024/3/25) 表現の修正</s><br>
 <s>Version 1.0.1 (2023/12/4) 規約名称変更に伴う修正</s><br>
