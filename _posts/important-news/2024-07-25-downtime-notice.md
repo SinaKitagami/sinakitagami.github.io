@@ -1,9 +1,9 @@
 ---
 layout: post
-title: [続報]思惟奈ちゃんがご利用いただけない状態に関して
+title: 【続報】思惟奈ちゃんがご利用いただけない状態に関して
 categories:
 - important-news
-date: 2024-07-25 02:15:00 +09:00
+date: 2024-07-29 02:15:00 +09:00
 author: takumi0213
 ---
 更新履歴
