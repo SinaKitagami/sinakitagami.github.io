@@ -3,7 +3,7 @@ layout: post
 title: 運営チームからの大切なお願い
 categories:
 - important-news
-date: 2024-07-25 02:15:00 +09:00
+date: 2024-07-29 02:15:00 +09:00
 author: takumi0213
 ---
 
