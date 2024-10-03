@@ -8,6 +8,7 @@ categories:
 
 掲載日(最終更新日): 2024年7月14日
 
+10月日より施行予定の新ガイドラインは<a href="{{site.url}}/new-legal/use-guideline" class="a-orange">こちらから</a>
 ---
 
 ## I. 用語集
