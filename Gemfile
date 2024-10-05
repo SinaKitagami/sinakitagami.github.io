@@ -29,3 +29,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-menus', '~> 0.6.1'
+
+gem "github-pages", "~> 215", group: :jekyll_plugins
