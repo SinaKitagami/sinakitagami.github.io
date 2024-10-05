@@ -33,6 +33,6 @@ end
 
 gem 'jekyll-menus', '~> 0.6.1'
 
-gem "github-pages", "~> 215", group: :jekyll_plugins
+# gem "github-pages", "~> 215", group: :jekyll_plugins
 
-gem uninstall bundler --version '<2' && gem install bundler
+gem 'liquid', '>= 4.0.4'
