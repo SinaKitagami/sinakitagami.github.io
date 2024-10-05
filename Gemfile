@@ -36,3 +36,5 @@ gem 'jekyll-menus', '~> 0.6.1'
 # gem "github-pages", "~> 215", group: :jekyll_plugins
 
 gem 'liquid', '>= 4.0.4'
+
+gem 'jekyll-sitemap'
