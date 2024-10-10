@@ -10,6 +10,8 @@ categories:
 
 施行日: 2024年7月14日
 
+10月日より施行予定の新ポリシーは<a href="{{site.url}}/legal/new-partner-verify" class="a-orange">こちらから</a>
+
 ---
 
 ## 1. パートナーアプリ

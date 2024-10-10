@@ -8,6 +8,8 @@ categories:
 
 掲載日(最終更新日): 2024年7月14日
 
+現行ガイドラインは<a href="{{site.url}}/legal/use-guideline" class="a-orange">こちらから</a>
+
 ---
 
 ## I. 用語集

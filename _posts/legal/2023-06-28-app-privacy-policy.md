@@ -10,7 +10,7 @@ categories:
 
 施行日: 2024年7月14日
 
-10月日より施行予定の新ポリシーは<a href="{{site.url}}/new-legal/privacy-policy" class="a-orange">こちらから</a>
+10月日より施行予定の新ポリシーは<a href="{{site.url}}/legal/new-privacy-policy" class="a-orange">こちらから</a>
 
 ---
 

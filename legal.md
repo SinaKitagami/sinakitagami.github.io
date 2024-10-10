@@ -20,17 +20,17 @@ date: 2023より
 
 下記の規約・ポリシー・ガイドラインは10月日に施行予定です。
 
-<a href="{{site.url}}/new-legal/tos" class="a-orange">全体利用規約(旧共通利用規約)</a>
+<a href="{{site.url}}/legal/new-tos" class="a-orange">全体利用規約(旧共通利用規約)</a>
 
-<a href="{{site.url}}/new-legal/penalty" class="a-orange">ペナルティポリシー</a>
+<a href="{{site.url}}/legal/new-penalty" class="a-orange">ペナルティポリシー</a>
 
-<a href="{{site.url}}/new-legal/use-guideline" class="a-orange">利用ガイドライン</a>
+<a href="{{site.url}}/legal/new-use-guideline" class="a-orange">利用ガイドライン</a>
 
-<a href="{{site.url}}/new-legal/privacy-policy" class="a-orange">プライバシーポリシー</a>
+<a href="{{site.url}}/legal/new-privacy-policy" class="a-orange">プライバシーポリシー</a>
 
-<a href="{{site.url}}/new-legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>
+<a href="{{site.url}}/legal/new-gchat-tos" class="a-orange">グローバルチャット利用規約</a>
 
-<a href="{{site.url}}/new-legal/partner-verify" class="a-orange">パートナー・認証ポリシー</a>
+<a href="{{site.url}}/legal/new-partner-verify" class="a-orange">パートナー・認証ポリシー</a>
 
 ### 共通規約・ポリシー・ガイドライン
 

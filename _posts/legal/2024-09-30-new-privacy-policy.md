@@ -10,6 +10,8 @@ categories:
 
 施行日: 2024年9月30日
 
+現行ポリシーは<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">こちらから</a>
+
 ---
 
 ## I. 基本データ
