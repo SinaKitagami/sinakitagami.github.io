@@ -1,16 +1,16 @@
 ---
 layout: post
-title: アプリプライバシーポリシー
+title: プライバシーポリシー
 categories:
 - legal
 ---
 <u>この利用規約(以下、本規約)は<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a>に準ずる個別利用規約として解釈されます。</u>
 
-掲載日(最終更新日): 2024年7月14日
+掲載日(最終更新日): 2024年9月30日
 
-施行日: 2024年7月14日
+施行日: 2024年9月30日
 
-10月日より施行予定の新ポリシーは<a href="{{site.url}}/legal/new-privacy-policy" class="a-orange">こちらから</a>
+現行ポリシーは<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">こちらから</a>
 
 ---
 
