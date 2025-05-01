@@ -16,22 +16,6 @@ date: 2023より
 
 ---
 
-### 新規約・ポリシー・ガイドライン
-
-下記の規約・ポリシー・ガイドラインは10月日に施行予定です。
-
-<a href="{{site.url}}/legal/new-tos" class="a-orange">全体利用規約(旧共通利用規約)</a>
-
-<a href="{{site.url}}/legal/new-penalty" class="a-orange">ペナルティポリシー</a>
-
-<a href="{{site.url}}/legal/new-use-guideline" class="a-orange">利用ガイドライン</a>
-
-<a href="{{site.url}}/legal/new-privacy-policy" class="a-orange">プライバシーポリシー</a>
-
-<a href="{{site.url}}/legal/new-gchat-tos" class="a-orange">グローバルチャット利用規約</a>
-
-<a href="{{site.url}}/legal/new-partner-verify" class="a-orange">パートナー・認証ポリシー</a>
-
 ### 共通規約・ポリシー・ガイドライン
 
 <a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a><br>
@@ -46,7 +30,7 @@ date: 2023より
 ### アプリ関連
 
 <a href="{{site.url}}/legal/app-tos" class="a-orange">アプリ利用規約</a><br>
-現行バージョン: 1.1.1<br>**本バージョンをもって廃止となります**
+現行バージョン: 1.1.1
 
 <a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">アプリプライバシーポリシー</a><br>
 現行バージョン: 1.1.1
