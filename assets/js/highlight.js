@@ -112,9 +112,7 @@
     }
 
     function f(e, t, a, i) {
-        function o(e) {
-            return new RegExp(e.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"), "m");
-        }
+// Removed unused function `o`.
 
         function c(e, n) {
             var t, a;
