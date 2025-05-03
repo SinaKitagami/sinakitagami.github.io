@@ -1,0 +1,23 @@
+name: 編集・構造に関する質問
+description: Jekyll・Markdown・構成などに関する質問を投稿
+title: "[質問] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ❓ **困っていること、知りたいことを具体的に記載してください。**
+  
+  - type: textarea
+    id: question
+    attributes:
+      label: 質問内容
+      placeholder: 例）`_includes/footer.html` の読み込みが反映されません
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: 関連ファイル（任意）
+      placeholder: 例）`contact.md`
