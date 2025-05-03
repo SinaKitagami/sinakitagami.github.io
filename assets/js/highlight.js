@@ -168,7 +168,7 @@
         function N(e, n) {
             if (k += e, null == n) return v(), 0;
             var t = c(n, E);
-            if (t) return t.skip ? k += n : (t.eB && (k += n), v(), t.rB || t.eB || (k = n)), m(t, n), t.rB ? 0 : n.length;
+            if (t) return t.skip ? k += n : (t.eB && (k += n), v(), t.rB || t.eB || (k = n)), m(t), t.rB ? 0 : n.length;
             var r = u(E, n);
             if (r) {
                 var a = E;
