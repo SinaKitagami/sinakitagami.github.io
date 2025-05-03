@@ -11,7 +11,7 @@ on:
 jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
-    runs-on: ${{ matrix.language == 'swift' && 'macos-latest' || 'ubuntu-latest' }}
+    runs-on: ${{ ((matrix.language == 'swift') && 'macos-latest') || 'ubuntu-latest' }}
     permissions:
       security-events: write
       packages: read
@@ -44,7 +44,13 @@ jobs:
         if: matrix.build-mode == 'manual'
         shell: bash
         run: |
-          echo 'If you are using a "manual" build mode, replace this with actual build commands.'
+          echo 'Error: Manual build mode is selected, but no build commands are provided.'
+          echo 'Please replace this step with the appropriate build commands for your project.'
+          echo 'For example:'
+          echo '  # Install dependencies'
+          echo '  npm install'
+          echo '  # Build the project'
+          echo '  npm run build'
           exit 1
 
       - name: Perform CodeQL Analysis
