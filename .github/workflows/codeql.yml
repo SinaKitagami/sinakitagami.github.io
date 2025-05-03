@@ -46,13 +46,14 @@ jobs:
         if: matrix.build-mode == 'manual'
         shell: bash
         run: |
-          echo 'Error: Manual build mode is selected, but no build commands are provided.'
-          echo 'Please replace this step with the appropriate build commands for your project.'
-          echo 'For example:'
+          echo 'Manual build mode is selected. Please replace this step with the appropriate build commands for your project.'
+          echo 'For example, if your project uses Node.js:'
           echo '  # Install dependencies'
           echo '  npm install'
           echo '  # Build the project'
           echo '  npm run build'
+          echo ''
+          echo 'If no manual build steps are required, you can safely remove this step from the workflow.'
           exit 1
 
       - name: Perform CodeQL Analysis
