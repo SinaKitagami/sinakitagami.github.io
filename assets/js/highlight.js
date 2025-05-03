@@ -174,7 +174,7 @@
                 var a = E;
                 a.skip ? k += n : (a.rE || a.eE || (k += n), v(), a.eE && (k = n));
                 do E.cN && (y += I), E.skip || E.sL || (M += E.r), E = E.parent; while (E !== r.parent);
-                return r.starts && (r.endSameAsBegin && (r.starts.eR = r.eR), m(r.starts, "")), a.rE ? 0 : n.length;
+                return r.starts && (r.endSameAsBegin && (r.starts.eR = r.eR), m(r.starts)), a.rE ? 0 : n.length;
             }
             if (s(n, E)) throw new Error('Illegal lexeme "' + n + '" for mode "' + (E.cN || "<unnamed>") + '"');
             return k += n, n.length || 1;
