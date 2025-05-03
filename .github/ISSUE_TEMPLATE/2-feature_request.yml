@@ -1,0 +1,30 @@
+name: コンテンツ・デザインの提案
+description: ページ構成や文言の改善提案を送る
+title: "[提案] "
+labels: ["enhancement"]
+assignees: mii-10, takumi0213
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ✨ **追加・改善してほしいページについて教えてください。**
+  
+  - type: textarea
+    id: summary
+    attributes:
+      label: 提案内容
+      placeholder: 例）`index.md` にFAQセクションを追加したい
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 提案の背景・理由
+      placeholder: 例）ユーザーが情報を探しやすくなると思ったため
+
+  - type: textarea
+    id: related
+    attributes:
+      label: 関連ページ・既存要素（任意）
+      placeholder: 関連するMarkdownやHTMLファイルなど
