@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ペナルティポリシー
+published: false
 categories:
 - legal
 ---
