@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 利用ガイドライン
+published: false
 categories:
 - legal
 ---
