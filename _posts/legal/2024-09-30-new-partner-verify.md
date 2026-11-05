@@ -1,6 +1,7 @@
 ---
 layout: post
 title: パートナー・認証ポリシー
+published: false
 categories:
 - legal
 ---
