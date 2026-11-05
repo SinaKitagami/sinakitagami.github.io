@@ -1,6 +1,7 @@
 ---
 layout: post
 title: グローバルチャット利用規約
+published: false
 categories:
 - legal
 ---
