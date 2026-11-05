@@ -1,6 +1,7 @@
 ---
 layout: post
 title: プライバシーポリシー
+published: false
 categories:
 - legal
 ---
