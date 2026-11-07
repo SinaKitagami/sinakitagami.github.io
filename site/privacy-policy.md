@@ -49,7 +49,7 @@ Googleによる情報の利用については、<a href="https://policies.google
 
 ## III. Cookieについて
 
-当サイトでは、IIに記載したサービスによって、Cookieが使用されます。Cookieは、ご利用のブラウザの設定で、いつでも削除・無効化できます。方法は、ご利用のブラウザのヘルプをご覧ください。
+当サイトでは、IIに記載したサービスの一部(Google アナリティクスなど)によって、Cookieが使用されます。Cookieは、ご利用のブラウザの設定で、いつでも削除・無効化できます。方法は、ご利用のブラウザのヘルプをご覧ください。
 
 - <a href="https://support.google.com/chrome/answer/95647" class="a-orange">Google Chrome</a>
 - <a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">Firefox</a>
