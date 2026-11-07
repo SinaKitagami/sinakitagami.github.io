@@ -16,35 +16,34 @@ date: 2023より
 
 ---
 
-### 共通規約・ポリシー・ガイドライン
+### 全体利用規約・ポリシー・ガイドライン
 
-<a href="{{site.url}}/legal/tos" class="a-orange">共通利用規約</a><br>
-現行バージョン: 1.1.1
+<a href="{{site.url}}/legal/tos" class="a-orange">全体利用規約</a><br>
+現行バージョン: 2.0
 
 <a href="{{site.url}}/legal/penalty" class="a-orange">ペナルティポリシー</a><br>
-現行バージョン: 1.2
-
-<a href="{{site.url}}/legal/use-guideline" class="a-orange">利用ガイドライン</a><br>
-現行バージョン: 1.1.1
-
-### アプリ関連
-
-<a href="{{site.url}}/legal/app-tos" class="a-orange">アプリ利用規約</a><br>
-現行バージョン: 1.1.1
+現行バージョン: 2.0
 
 <a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">アプリプライバシーポリシー</a><br>
-現行バージョン: 1.1.1
+現行バージョン: 2.1
+
+<a href="{{site.url}}/legal/use-guideline" class="a-orange">利用ガイドライン</a><br>
+現行バージョン: 2.0
+
+### 個別利用規約
 
 <a href="{{site.url}}/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a><br>
-現行バージョン: 1.2.1
+現行バージョン: 2.0
 
 <a href="{{site.url}}/legal/bmail-tos" class="a-orange">ボトルメール利用規約</a><br>
-現行バージョン: 1.1.1
+現行バージョン: 2.0
 
 <a href="{{site.url}}/legal/partner-verify" class="a-orange">パートナー・認証ポリシー</a><br>
-現行バージョン: 2.0
+現行バージョン: 2.1
 
 ### その他
 
 <a href="{{site.url}}/legal/tradelaw" class="a-orange">特定商取引法に基づく表記</a><br>
 現行バージョン: 1.1
+
+<a href="{{site.url}}/site/privacy-policy" class="a-orange">プライバシーポリシー(サイト)</a>

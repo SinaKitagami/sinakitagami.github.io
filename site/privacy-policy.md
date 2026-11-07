@@ -6,31 +6,63 @@ date: 2020-02-09 0:00
 author: Team Sina
 ---
 
-お断り:本規約は、当サイトでの物とし、Discord内では適用されない物とします。<br>
+掲載日(最終更新日): 【掲載日】
 
-https://sina-chan.com (以下当サイト)では、利用者の情報を取得し、適切に管理しております。
+---
 
-## Cookieの利用
-当サイトでは、利用者の使用状況に合わせるため、Cookieを一部使用することがございます。これにより、個人情報取得等が出来ることはございません。
+本ポリシーは、思惟奈ちゃんの公式サイト(home.sina-chan.com。以下「当サイト」といいます。)で、閲覧された方の情報をどのように取り扱うかを定めるものです。当サイトは、思惟奈ちゃんを運営・管理する者(以下「運営」といいます。)が管理しています。
 
-また、Cookieは利用者自身がいつでもご自身の使用ブラウザより削除することができます。詳しくは、各ブラウザのヘルプページをご覧下さい。:<br>
+Discordアプリ「思惟奈ちゃん」での情報の取り扱いは、本ポリシーではなく、<a href="{{site.url}}/legal/app-privacy-policy" class="a-orange">アプリプライバシーポリシー</a>に定めています。
 
- - Google Chrome:<a href="https://support.google.com/chrome/answer/95647" class="a-orange">Chrome で Cookie の削除、有効化、管理を行う</a>
- - Firefox:<a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">Firefox に保存された Cookie とサイトデータを消去する</a>
- - Internet Explorer:<a href="https://support.microsoft.com/ja-jp/help/17442/windows-internet-explorer-delete-manage-cookies" class="a-orange">Cookie の削除と管理を行う</a>
- - Microsoft Edge:<a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">Microsoft Edge で Cookie を削除する</a>
+## I. 取得する情報
 
-上記のブラウザ以外につきましては、ご利用ブラウザのサポートページをご覧ください。
+当サイトでは、閲覧された方の氏名やメールアドレスなどを入力していただくことはありません。当サイトの閲覧に伴い、以下の情報が、次の章に記載するサービスの提供者に送信されます。
 
-## Google Analyticsについて
-当サイトでは、ホームページの利用状況を把握するためにGoogle Analyticsを利用しています。Google Analyticsから提供されるCookieを利用していますが、個人情報を特定する物ではありません。また、当サイトでは、Google Analyticsの責任を一切負わないものとします。
+- IPアドレス
+- ブラウザや端末の種類、閲覧したページ、閲覧した日時などのアクセス情報
+- Cookieなどに保存された、ブラウザを識別するための情報
 
-詳しくは、Google社の公式サイトをご覧下さい:
+## II. 利用しているサービス
 
- - Googleのサービスを使用するサイトやアプリから収集した情報のGoogleによる使用：
-  - <a href="https://www.google.com/intl/ja/policies/privacy/partners/" class="a-orange">https://www.google.com/intl/ja/policies/privacy/partners/</a>
+### 1. サイトの配信
 
-以上<br>
+当サイトは、GitHub, Inc.のGitHub Pagesで公開し、Cloudflare, Inc.のサービスを経由して配信しています。当サイトへのアクセスの際に、IPアドレスなどのアクセス情報が、これらの事業者に送信されます。
 
-最終更新日:2020/02/09<br>
-緊急連絡先:mii-10@tsc.mii-10-star.jp (mii-10)
+### 2. Google アナリティクス・Google タグマネージャー
+
+当サイトでは、利用状況を把握するために、Google LLCのGoogle アナリティクスとGoogle タグマネージャーを利用しています。Google アナリティクスは、Cookieを使用してアクセス情報を収集します。収集された情報は、Googleのプライバシーポリシーに従って取り扱われます。
+
+Googleによる情報の利用については、<a href="https://policies.google.com/technologies/partner-sites?hl=ja" class="a-orange">Google のサービスを使用するサイトやアプリから収集した情報の Google による使用</a>をご覧ください。
+
+### 3. reCAPTCHA Enterprise
+
+当サイトでは、不正な利用を防止するために、Google LLCのreCAPTCHA Enterpriseのスクリプトを読み込んでいます。この際に、IPアドレス、ブラウザや端末に関する情報などがGoogleに送信される場合があります。
+
+### 4. フォント・スクリプトの配信
+
+当サイトの表示のために、以下の配信元からフォントやスクリプトを読み込んでいます。この際に、IPアドレスなどのアクセス情報が、それぞれの配信元に送信されます。
+
+- Google Fonts(Google LLC)
+- Font Awesome
+- jQuery(code.jquery.com)
+- 思惟奈ちゃんのステータスページ(status.sina-chan.com)
+
+## III. Cookieについて
+
+当サイトでは、IIに記載したサービスによって、Cookieが使用されます。Cookieは、ご利用のブラウザの設定で、いつでも削除・無効化できます。方法は、ご利用のブラウザのヘルプをご覧ください。
+
+- <a href="https://support.google.com/chrome/answer/95647" class="a-orange">Google Chrome</a>
+- <a href="https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox" class="a-orange">Firefox</a>
+- <a href="https://support.microsoft.com/ja-jp/help/4027947/microsoft-edge-delete-cookies" class="a-orange">Microsoft Edge</a>
+
+## IV. 外部サイトへのリンク
+
+当サイトには、サポートセンター、各種フォームなど、外部のサイトへのリンクがあります。リンク先での情報の取り扱いは、リンク先のサイトのポリシーに従います。
+
+## V. 本ポリシーの変更
+
+本ポリシーは、必要に応じて変更することがあります。変更後の本ポリシーは、本ページに掲載した時点から効力を生じます。
+
+## VI. お問い合わせ
+
+本ポリシーに関するお問い合わせは、<a href="https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/15/create/17" class="a-orange">問い合わせフォーム</a>からお送りください。

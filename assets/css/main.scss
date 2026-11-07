@@ -424,6 +424,26 @@ body{
     padding: 10px 0;
   }
 
+  table thead th{
+    width: auto;
+    padding: 10px 8px;
+  }
+
+  table thead th:after{
+    display: none;
+  }
+
+  table thead ~ tbody td{
+    width: auto;
+    text-align: left;
+    padding: 10px 8px;
+    border-left: solid 2px white;
+  }
+
+  table thead ~ tbody td:first-child{
+    border-left: none;
+  }
+
   div.yokonarabi * {
     display: inline-block;
 }
